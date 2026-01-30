@@ -1,0 +1,2001 @@
+ticket_id,text,category,urgency
+1000,I'd like to know more about your latest product offerings.,Product Inquiry,High
+1001,there's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+1002,I'm getting error messages when trying to access certain features. I'm a longtime customer.,Technical Support,Medium
+1003,I think my account has been compromised.,Account Management,Medium
+1004,i can't seem to access the platform from my device. i appreciate your help with this.,Technical Support,Medium
+1005,The service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+1006,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+1007,I need to send this back as it's not what I expected.,Returns & Refunds,High
+1008,Can you process a refund for my recent purchase?,Billing & Payments,Medium
+1009,The page loads extremely slowly for me.,Technical Support,Medium
+1010,Can you help me with some information?,Product Inquiry,Low
+1011,do you have any recommendations for me? i'm a longtime customer.,General/Irrelevant,Medium
+1012,I need to update my payment information.,Billing & Payments,High
+1013,I have an issue with my recent order. Looking forward to your response.,Returns & Refunds,Medium
+1014,can you help me recover my account access?,Account Management,Medium
+1015,I need help with my purchase.,Returns & Refunds,High
+1016,Can you help me with some information? Looking forward to your response.,General/Irrelevant,Low
+1017,"hi there, just wanted to reach out.",General/Irrelevant,Medium
+1018,the feature you mentioned isn't working as described.,Technical Support,Low
+1019,Just checking in to see how things are going.,General/Irrelevant,Medium
+1020,"Just checking in to see how things are going. By the way, the weather is nice today.",General/Irrelevant,Medium
+1021,Can I get a refund for this purchase?,Returns & Refunds,Medium
+1022,i'd like to know more about your latest product offerings.,Product Inquiry,High
+1023,I need help accessing my account. This is my first time contacting support.,Account Management,High
+1024,Do you have any recommendations for me?,General/Irrelevant,Medium
+1025,I think my account has been compromised.,Account Management,Medium
+1026,the product arrived defective and doesn't work. i'm a longtime customer.,Returns & Refunds,Medium
+1027,can i exchange this for a different option? this is my first time contacting support.,Returns & Refunds,Medium
+1028,Can you help me recover my account access?,Account Management,Medium
+1029,I think my account has been compromised.,Account Management,Medium
+1030,I'm having trouble connecting to the service.,Billing & Payments,Medium
+1031,I have a question for you.,Product Inquiry,Low
+1032,can you help me with some information?,Product Inquiry,Low
+1033,Do you have information about what's included in the package?,Product Inquiry,Low
+1034,i have a general inquiry for your team. i'm a longtime customer.,General/Irrelevant,Low
+1035,"Hi there, just wanted to reach out.",General/Irrelevant,Medium
+1036,I noticed an issue with my account - the amount doesn't match what I expected.,Billing & Payments,Medium
+1037,i'm getting error messages when trying to access certain features.,Technical Support,Medium
+1038,i'm unable to reset my password.,Account Management,Medium
+1039,What options are available for customization?,Product Inquiry,Medium
+1040,My credit card declined but I was still charged.,Returns & Refunds,Medium
+1041,what can you tell me about your company?,General/Irrelevant,Medium
+1042,I need assistance with my account.,Account Management,High
+1043,I'd like to provide feedback about something. Thanks for your assistance.,General/Irrelevant,Low
+1044,I need to update my payment information.,Billing & Payments,High
+1045,I need to update my payment information.,Billing & Payments,High
+1046,i need assistance with something.,General/Irrelevant,High
+1047,i have an issue with my recent order.,Returns & Refunds,Medium
+1048,i need assistance with an issue.,Technical Support,High
+1049,This product doesn't meet my expectations and I'd like to return it.,Returns & Refunds,Medium
+1050,The amount I was charged seems incorrect.,Billing & Payments,Medium
+1051,i have a question for you.,General/Irrelevant,Low
+1052,I need to update my payment information.,Billing & Payments,High
+1053,I'm looking for some general information. Thanks for your assistance.,General/Irrelevant,Low
+1054,the amount i was charged seems incorrect.,Billing & Payments,Medium
+1055,i'm looking for more details about something.,Product Inquiry,Medium
+1056,i need assistance with an issue.,Billing & Payments,High
+1057,i received a damaged item and would like to return it.,Returns & Refunds,Medium
+1058,I have an issue with my recent purchase.,Billing & Payments,Medium
+1059,Can you help me understand this transaction from last week?,Billing & Payments,Medium
+1060,can i exchange this for a different option?,Returns & Refunds,Medium
+1061,The service seems to be down or experiencing technical difficulties. I hope you're having a good day.,Technical Support,Medium
+1062,I'm having trouble connecting to the service.,Technical Support,Medium
+1063,I'd like to return this item and get my money back. Thanks for your assistance.,Returns & Refunds,Low
+1064,I didn't authorize this charge on my account.,Billing & Payments,Medium
+1065,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+1066,Can you help me understand this transaction from last week?,Billing & Payments,Medium
+1067,What features are included in this version?,Product Inquiry,Medium
+1068,"How do I initiate a return? By the way, the weather is nice today.",Returns & Refunds,Medium
+1069,Just checking in to see how things are going. I appreciate your help with this.,General/Irrelevant,Medium
+1070,How do I change my subscription settings?,Billing & Payments,Medium
+1071,is this item available in different sizes or colors?,Product Inquiry,Medium
+1072,I need assistance with my account.,Account Management,High
+1073,The shipment included an incorrect item.,Returns & Refunds,Medium
+1074,there seems to be a problem with the recent charge on my account.,Billing & Payments,Medium
+1075,I think my account has been compromised.,Account Management,Medium
+1076,Just checking in to see how things are going.,General/Irrelevant,Medium
+1077,How do I update my profile information?,Account Management,Low
+1078,how do i change my subscription settings?,Billing & Payments,Medium
+1079,What features are included in this version?,Product Inquiry,Medium
+1080,I forgot my login credentials.,Account Management,Medium
+1081,"Can you help me recover my account access? By the way, the weather is nice today.",Account Management,Medium
+1082,Can you help me resolve this problem?,Technical Support,Low
+1083,Can you help me resolve this problem?,Technical Support,Medium
+1084,The system returned an unexpected error code.,Technical Support,Medium
+1085,I need to change my account password.,Account Management,High
+1086,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+1087,I have a general inquiry for your team.,General/Irrelevant,Low
+1088,Can I exchange this for a different option?,Returns & Refunds,Medium
+1089,"I need to send this back as it's not what I expected. By the way, the weather is nice today.",Returns & Refunds,High
+1090,What's the difference between these product versions?,Product Inquiry,Medium
+1091,Can you help me with some information?,General/Irrelevant,Low
+1092,I need assistance with an issue. Thanks for your assistance.,Technical Support,High
+1093,Something isn't functioning correctly in the application.,Technical Support,Medium
+1094,something is wrong with what i received.,Returns & Refunds,Medium
+1095,I'd like to know more about your latest product offerings.,Product Inquiry,High
+1096,How do I initiate a return?,Returns & Refunds,Medium
+1097,can you help me with my purchase?,Billing & Payments,Medium
+1098,The page loads extremely slowly for me.,Technical Support,Medium
+1099,The system returned an unexpected error code.,Technical Support,Medium
+1100,can you help me recover my account access?,Product Inquiry,Medium
+1101,i'm looking for some general information.,General/Irrelevant,Low
+1102,I have an issue with my recent purchase.,Billing & Payments,Medium
+1103,can you tell me more about the specifications? this is my first time contacting support.,Product Inquiry,Medium
+1104,The feature you mentioned isn't working as described.,Technical Support,Medium
+1105,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+1106,this product doesn't meet my expectations and i'd like to return it.,Returns & Refunds,Medium
+1107,I'm reaching out about something.,General/Irrelevant,Medium
+1108,can you help me out?,General/Irrelevant,Medium
+1109,I'm getting error messages when trying to access certain features. I appreciate your help with this.,Technical Support,Medium
+1110,Can I change the email associated with my account?,Account Management,Medium
+1111,I need to update my payment information.,Billing & Payments,High
+1112,Can you help me resolve this problem?,Technical Support,Medium
+1113,I was charged multiple times for the same order.,Billing & Payments,Medium
+1114,I received a damaged item and would like to return it.,Returns & Refunds,Medium
+1115,Is this item available in different sizes or colors?,Product Inquiry,Medium
+1116,How do I initiate a return?,Returns & Refunds,Medium
+1117,The item I received wasn't what I ordered.,Returns & Refunds,Medium
+1118,Do you have any recommendations for me?,General/Irrelevant,Medium
+1119,"I noticed an issue with my account - the amount doesn't match what I expected. By the way, the weather is nice today.",Billing & Payments,Medium
+1120,I forgot my login credentials.,Account Management,Medium
+1121,what are the main features of this product?,Product Inquiry,Medium
+1122,I'd like to return this item and get my money back.,Returns & Refunds,Medium
+1123,"Hi there, just wanted to reach out.",General/Irrelevant,Medium
+1124,I need assistance with an issue. Thanks for your assistance.,Technical Support,High
+1125,I have an issue with my recent order.,Returns & Refunds,Medium
+1126,The service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+1127,I'm having trouble logging into my account. I hope you're having a good day.,Account Management,High
+1128,I'd like to know more about your latest product offerings.,Product Inquiry,High
+1129,Can you help me with some information?,Product Inquiry,Low
+1130,I need help with my purchase.,Returns & Refunds,High
+1131,I didn't authorize this charge on my account.,Billing & Payments,Medium
+1132,There seems to be a problem with the recent charge on my account.,Billing & Payments,Medium
+1133,Can you tell me more about the specifications?,Product Inquiry,Medium
+1134,I'm unable to reset my password.,Account Management,Medium
+1135,There seems to be a problem with the recent charge on my account. Looking forward to your response.,Billing & Payments,Medium
+1136,i have an issue with my account - something isn't working right.,Technical Support,Medium
+1137,How do I update my profile information?,Account Management,Medium
+1138,The amount I was charged seems incorrect. Thanks for your assistance.,Billing & Payments,Low
+1139,"I need assistance with something. By the way, the weather is nice today.",General/Irrelevant,High
+1140,how do i update my profile information?,Account Management,Low
+1141,The service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+1142,Can you help me recover my account access?,General/Irrelevant,Medium
+1143,I have an issue with my account - something isn't working right.,Technical Support,High
+1144,I need help accessing my account.,Account Management,High
+1145,"i think my account has been compromised. by the way, the weather is nice today.",Account Management,Medium
+1146,"how do i change my subscription settings? by the way, the weather is nice today.",Billing & Payments,Medium
+1147,what can you tell me about your company? thanks for your assistance.,General/Irrelevant,Low
+1148,Something is wrong with what I received. I appreciate your help with this.,Returns & Refunds,Medium
+1149,can you process a refund for my recent purchase?,Billing & Payments,Medium
+1150,Just checking in to see how things are going.,Technical Support,Medium
+1151,I'm experiencing performance issues with the platform. Thanks for your assistance.,Technical Support,Low
+1152,I need assistance with an issue. Thanks for your assistance.,Billing & Payments,High
+1153,something's wrong with my access.,Account Management,Medium
+1154,Something is wrong with what I received.,Returns & Refunds,Medium
+1155,my credit card declined but i was still charged.,Billing & Payments,Medium
+1156,The item I received wasn't what I ordered.,Returns & Refunds,Medium
+1157,I need assistance with an issue.,Technical Support,High
+1158,I have an issue with my account. I'm a longtime customer.,Account Management,Medium
+1159,The application keeps crashing whenever I try to use this feature. I'm a longtime customer.,Technical Support,Low
+1160,i need assistance regarding something.,Product Inquiry,High
+1161,Can I change the email associated with my account?,Account Management,Medium
+1162,Is this item available in different sizes or colors?,Product Inquiry,Low
+1163,There's a bug in the system that prevents me from completing my task.,General/Irrelevant,Medium
+1164,Can you help me recover my account access?,Account Management,Medium
+1165,something's wrong with my access. i appreciate your help with this.,Account Management,Medium
+1166,I didn't authorize this charge on my account.,Billing & Payments,Medium
+1167,I wanted to ask about something in general.,General/Irrelevant,Low
+1168,"Can you process a refund for my recent purchase? By the way, the weather is nice today.",Billing & Payments,Medium
+1169,there's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+1170,Something is wrong with my order.,Billing & Payments,Medium
+1171,Something's wrong with my access. Looking forward to your response.,General/Irrelevant,Medium
+1172,I'm having trouble logging into my account.,Product Inquiry,Medium
+1173,Can I get a refund for this purchase?,Returns & Refunds,Medium
+1174,The page loads extremely slowly for me.,Technical Support,Medium
+1175,Is this item still being manufactured?,Product Inquiry,Medium
+1176,Something isn't functioning correctly in the application. I appreciate your help with this.,Technical Support,Medium
+1177,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+1178,i didn't authorize this charge on my account.,Billing & Payments,Medium
+1179,there's a discrepancy in my billing statement. this is my first time contacting support.,Billing & Payments,Medium
+1180,the application keeps crashing whenever i try to use this feature.,Technical Support,Low
+1181,"I'd like to return this purchase for a refund. By the way, the weather is nice today.",Returns & Refunds,Medium
+1182,I have a question that might not fit your usual categories.,General/Irrelevant,Low
+1183,can you help me recover my account access?,Account Management,Medium
+1184,can you provide some information about something?,General/Irrelevant,Low
+1185,The feature you mentioned isn't working as described. Looking forward to your response.,Technical Support,Medium
+1186,The wrong item was sent to me. This is my first time contacting support.,Returns & Refunds,Medium
+1187,I'm having trouble connecting to the service.,Technical Support,Medium
+1188,Can you assist me with something? I hope you're having a good day.,Returns & Refunds,Medium
+1189,I'm unable to reset my password. Thanks for your assistance.,Account Management,Low
+1190,Is this item still being manufactured?,Product Inquiry,Medium
+1191,I need assistance with an issue.,Billing & Payments,High
+1192,what's the difference between these product versions?,Product Inquiry,Medium
+1193,Just checking in to see how things are going. I appreciate your help with this.,General/Irrelevant,Medium
+1194,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+1195,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+1196,do you have any recommendations for me? thanks for your assistance.,General/Irrelevant,Low
+1197,I'm unable to reset my password. Thanks for your assistance.,Account Management,Low
+1198,How do I verify my email address?,Account Management,Medium
+1199,I didn't authorize this charge on my account.,Billing & Payments,Medium
+1200,How do I initiate a return? I'm a longtime customer.,Returns & Refunds,Medium
+1201,i'm experiencing performance issues with the platform. i'm a longtime customer.,Technical Support,Medium
+1202,I have an issue with my recent order. I appreciate your help with this.,General/Irrelevant,Medium
+1203,I need assistance with my account.,Account Management,High
+1204,What accessories are compatible with this product? Thanks for your assistance.,Product Inquiry,Low
+1205,Can you assist me with something?,Product Inquiry,Medium
+1206,I'm looking for some general information.,General/Irrelevant,Low
+1207,"Can I change the email associated with my account? By the way, the weather is nice today.",Account Management,Medium
+1208,Do you have information about what's included in the package?,Product Inquiry,Low
+1209,Can you help me with some information?,General/Irrelevant,Low
+1210,I'd like to return this item and get my money back. I hope you're having a good day.,Returns & Refunds,Medium
+1211,Can you help me understand this transaction from last week?,Billing & Payments,Medium
+1212,There's a problem I need help with.,Technical Support,High
+1213,How do I verify my email address?,Account Management,Medium
+1214,Can you help me with my purchase?,Billing & Payments,Medium
+1215,I'm looking for more details about something.,Product Inquiry,Medium
+1216,I'm looking for some general information.,General/Irrelevant,Low
+1217,Is this item still being manufactured?,Product Inquiry,Medium
+1218,Can you help me with my purchase?,Billing & Payments,Medium
+1219,Can I get a refund for this purchase?,Technical Support,Medium
+1220,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+1221,i need help with my purchase. this is my first time contacting support.,Returns & Refunds,High
+1222,the wrong item was sent to me.,Returns & Refunds,Medium
+1223,i have an issue with my account - something isn't working right.,Technical Support,High
+1224,the wrong item was sent to me.,Returns & Refunds,Medium
+1225,something is wrong with what i received. i appreciate your help with this.,Returns & Refunds,Medium
+1226,What's the difference between these product versions?,Product Inquiry,Medium
+1227,i have a question that might not fit your usual categories.,General/Irrelevant,Low
+1228,The feature you mentioned isn't working as described.,Technical Support,Medium
+1229,Can you help me with some information?,General/Irrelevant,Low
+1230,i'd like to know more about your latest product offerings.,Product Inquiry,High
+1231,the feature you mentioned isn't working as described. i appreciate your help with this.,Technical Support,Medium
+1232,just checking in to see how things are going.,General/Irrelevant,Medium
+1233,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+1234,Something is wrong with my order.,Billing & Payments,Medium
+1235,I was charged multiple times for the same order.,Billing & Payments,Medium
+1236,Can you tell me more about the specifications? Looking forward to your response.,Product Inquiry,Medium
+1237,I have a general inquiry for your team.,General/Irrelevant,Low
+1238,I need help accessing my account.,Account Management,High
+1239,I have a general inquiry for your team.,General/Irrelevant,Low
+1240,i forgot my login credentials.,Account Management,Medium
+1241,i wanted to ask about something in general. i'm a longtime customer.,General/Irrelevant,Low
+1242,I received a damaged item and would like to return it.,Returns & Refunds,Medium
+1243,I need help accessing my account.,Account Management,High
+1244,There's a problem I need help with.,Technical Support,High
+1245,I'm having trouble connecting to the service.,Account Management,Medium
+1246,i'd like to know more about your latest product offerings.,Product Inquiry,High
+1247,I'm experiencing performance issues with the platform. I hope you're having a good day.,Account Management,Medium
+1248,There's a discrepancy in my billing statement. This is my first time contacting support.,Billing & Payments,Medium
+1249,The wrong item was sent to me. This is my first time contacting support.,Returns & Refunds,Medium
+1250,can you help me out?,General/Irrelevant,Medium
+1251,Can you help me with some information?,Product Inquiry,Low
+1252,I'd like to provide feedback about something. I'm a longtime customer.,General/Irrelevant,Medium
+1253,i'm experiencing performance issues with the platform. i hope you're having a good day.,Technical Support,Medium
+1254,what are the main features of this product?,Product Inquiry,Medium
+1255,i'm unable to reset my password.,Account Management,Medium
+1256,I'm looking for some general information. This is my first time contacting support.,General/Irrelevant,Low
+1257,I have an issue with my account.,Account Management,Medium
+1258,I need assistance with an issue.,Billing & Payments,High
+1259,I'd like to provide feedback about something. Looking forward to your response.,General/Irrelevant,High
+1260,The feature you mentioned isn't working as described.,Technical Support,Medium
+1261,How do I initiate a return? This is my first time contacting support.,Returns & Refunds,Medium
+1262,Something isn't functioning correctly in the application.,Technical Support,Medium
+1263,I think my account has been compromised. I appreciate your help with this.,Account Management,Medium
+1264,I have a question that might not fit your usual categories.,General/Irrelevant,Low
+1265,I need assistance regarding something. I'm a longtime customer.,Product Inquiry,High
+1266,how do i change my subscription settings?,Billing & Payments,Medium
+1267,can you process a refund for my recent purchase?,Billing & Payments,Medium
+1268,The application froze while I was using it. I hope you're having a good day.,Technical Support,Medium
+1269,Can you help me with my account issue?,Account Management,Medium
+1270,The application keeps crashing whenever I try to use this feature. I'm a longtime customer.,Technical Support,Low
+1271,I was charged multiple times for the same order. Thanks for your assistance.,Billing & Payments,Low
+1272,can you help me with some information?,General/Irrelevant,Low
+1273,I have a question that might not fit your usual categories. This is my first time contacting support.,General/Irrelevant,Low
+1274,can you help me with some information?,General/Irrelevant,Low
+1275,i need assistance with an issue.,Billing & Payments,High
+1276,I need to send this back as it's not what I expected.,Returns & Refunds,High
+1277,I need assistance with an issue. I'm a longtime customer.,Technical Support,High
+1278,My subscription hasn't been renewed properly.,Billing & Payments,Medium
+1279,is this item available in different sizes or colors?,Product Inquiry,High
+1280,Something's wrong with my access.,Account Management,Medium
+1281,what's the difference between these product versions?,Account Management,Medium
+1282,Can you help me with my account issue?,Account Management,Medium
+1283,I need to change my account password.,Account Management,High
+1284,Is this item available in different sizes or colors?,Product Inquiry,Medium
+1285,The amount I was charged seems incorrect. This is my first time contacting support.,Billing & Payments,Medium
+1286,The shipment included an incorrect item. I appreciate your help with this.,Returns & Refunds,Medium
+1287,I have an issue with my account.,Account Management,Medium
+1288,Something is wrong with what I received.,Returns & Refunds,Medium
+1289,The page loads extremely slowly for me. Thanks for your assistance.,Technical Support,Low
+1290,"Is this item available in different sizes or colors? By the way, the weather is nice today.",Product Inquiry,Medium
+1291,I'm unable to reset my password.,Account Management,Medium
+1292,I'm looking for some general information.,General/Irrelevant,Low
+1293,I'm experiencing performance issues with the platform.,Technical Support,Medium
+1294,"Something isn't functioning correctly in the application. By the way, the weather is nice today.",Technical Support,Medium
+1295,"How do I verify my email address? By the way, the weather is nice today.",Account Management,Medium
+1296,Can you help me out? Looking forward to your response.,General/Irrelevant,Medium
+1297,Do you have any recommendations for me?,General/Irrelevant,Medium
+1298,Is this item available in different sizes or colors?,Account Management,Medium
+1299,i have a question for you.,General/Irrelevant,Low
+1300,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+1301,I have an issue with my recent purchase.,Billing & Payments,Medium
+1302,I noticed an issue with my account - the amount doesn't match what I expected.,Billing & Payments,Medium
+1303,I need to update my payment information.,Billing & Payments,High
+1304,Can you process a refund for my recent purchase?,Billing & Payments,Medium
+1305,I was charged multiple times for the same order.,Billing & Payments,Medium
+1306,I didn't authorize this charge on my account. This is my first time contacting support.,Billing & Payments,Medium
+1307,Can I exchange this for a different option?,Returns & Refunds,Medium
+1308,Something isn't functioning correctly in the application. I appreciate your help with this.,Technical Support,Medium
+1309,"The wrong item was sent to me. By the way, the weather is nice today.",Returns & Refunds,Medium
+1310,There's a discrepancy in my billing statement.,Product Inquiry,Medium
+1311,the wrong item was sent to me.,Returns & Refunds,Medium
+1312,I'm getting error messages when trying to access certain features. I appreciate your help with this.,Technical Support,Medium
+1313,I'm looking for some general information.,Product Inquiry,Low
+1314,"Can you help me with my purchase? By the way, the weather is nice today.",Billing & Payments,Medium
+1315,what accessories are compatible with this product? this is my first time contacting support.,Product Inquiry,Medium
+1316,I'm unable to reset my password.,Account Management,Medium
+1317,I'm having trouble connecting to the service.,Technical Support,Medium
+1318,I'd like to update my account information.,Account Management,Low
+1319,I need assistance with an issue.,Technical Support,High
+1320,Something's wrong with my access.,Account Management,Medium
+1321,I need assistance with something. Thanks for your assistance.,General/Irrelevant,High
+1322,i need help accessing my account.,Account Management,High
+1323,How do I change my subscription settings?,Billing & Payments,Medium
+1324,What are the main features of this product? This is my first time contacting support.,Product Inquiry,Medium
+1325,I'd like to return this purchase for a refund. Thanks for your assistance.,Returns & Refunds,Low
+1326,Can you help me understand this transaction from last week?,Billing & Payments,Medium
+1327,I have an issue with my recent order.,Returns & Refunds,Medium
+1328,I need to update my payment information.,Billing & Payments,High
+1329,"i have a general inquiry for your team. by the way, the weather is nice today.",General/Irrelevant,Low
+1330,I'm having trouble logging into my account. I appreciate your help with this.,Billing & Payments,Medium
+1331,what options are available for customization?,Product Inquiry,Medium
+1332,Do you have any recommendations for me?,General/Irrelevant,Medium
+1333,What options are available for customization? I hope you're having a good day.,Product Inquiry,Medium
+1334,i'd like to know more about your latest product offerings.,Product Inquiry,Medium
+1335,I have a question about an item.,Product Inquiry,Low
+1336,I'm looking for more details about something.,Product Inquiry,Medium
+1337,How do I initiate a return? I hope you're having a good day.,Returns & Refunds,Medium
+1338,The application keeps crashing whenever I try to use this feature.,Returns & Refunds,Low
+1339,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+1340,The wrong item was sent to me. I hope you're having a good day.,Returns & Refunds,Medium
+1341,I was charged multiple times for the same order.,Billing & Payments,Medium
+1342,I'm experiencing performance issues with the platform.,Technical Support,Medium
+1343,I wanted to ask about something in general.,General/Irrelevant,Low
+1344,Just checking in to see how things are going. I'm a longtime customer.,General/Irrelevant,Medium
+1345,I think my account has been compromised.,Account Management,Medium
+1346,I'd like to know more about your latest product offerings.,Product Inquiry,High
+1347,There seems to be a problem with the recent charge on my account.,Billing & Payments,Medium
+1348,I'd like to know more about your latest product offerings. I'm a longtime customer.,Product Inquiry,High
+1349,I wanted to ask about something in general. This is my first time contacting support.,General/Irrelevant,Low
+1350,The system returned an unexpected error code.,Product Inquiry,Medium
+1351,Can you help me out? Thanks for your assistance.,General/Irrelevant,Low
+1352,The feature you mentioned isn't working as described.,Technical Support,Medium
+1353,My credit card declined but I was still charged.,Billing & Payments,Medium
+1354,I need assistance with an issue. I'm a longtime customer.,Billing & Payments,High
+1355,I need help with my purchase.,Returns & Refunds,High
+1356,something is wrong with what i received.,Returns & Refunds,Medium
+1357,can you help me with my purchase?,Billing & Payments,Medium
+1358,i have a question for you. i'm a longtime customer.,General/Irrelevant,Low
+1359,i have a question about an item.,Product Inquiry,Low
+1360,How do I change my subscription settings?,Billing & Payments,Medium
+1361,Can I exchange this for a different option?,Returns & Refunds,Medium
+1362,Something isn't functioning correctly in the application. I appreciate your help with this.,Technical Support,Medium
+1363,just checking in to see how things are going.,General/Irrelevant,Low
+1364,"I need to change my account password. By the way, the weather is nice today.",Account Management,High
+1365,The wrong item was sent to me. Thanks for your assistance.,Returns & Refunds,Low
+1366,Can I get a refund for this purchase? This is my first time contacting support.,Returns & Refunds,Medium
+1367,is this item available in different sizes or colors?,Product Inquiry,Medium
+1368,I'm interested in learning more about your services. Thanks for your assistance.,General/Irrelevant,Low
+1369,How do I verify my email address?,Account Management,Medium
+1370,"i forgot my login credentials. by the way, the weather is nice today.",Account Management,Medium
+1371,I'd like to return this item and get my money back.,Returns & Refunds,Medium
+1372,something isn't functioning correctly in the application.,Technical Support,Medium
+1373,Do you have information about what's included in the package? I'm a longtime customer.,Product Inquiry,Low
+1374,What accessories are compatible with this product?,Product Inquiry,Medium
+1375,What features are included in this version?,Product Inquiry,Medium
+1376,I need help accessing my account.,Account Management,High
+1377,The item I received wasn't what I ordered. Looking forward to your response.,Returns & Refunds,Medium
+1378,is there a newer version available?,Product Inquiry,Medium
+1379,I'm having trouble connecting to the service.,Technical Support,Medium
+1380,What options are available for customization?,Product Inquiry,Medium
+1381,i have an issue with my account. thanks for your assistance.,Account Management,Low
+1382,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+1383,can you help me with some information?,General/Irrelevant,Low
+1384,i need assistance regarding something. looking forward to your response.,Product Inquiry,High
+1385,My subscription hasn't been renewed properly.,Billing & Payments,Medium
+1386,I'm having trouble connecting to the service.,Technical Support,Medium
+1387,How do I verify my email address?,Account Management,Medium
+1388,can you help me with my purchase?,Billing & Payments,Medium
+1389,I forgot my login credentials.,Account Management,Medium
+1390,i'm unable to reset my password.,Account Management,Medium
+1391,the item i received wasn't what i ordered.,Returns & Refunds,Medium
+1392,I'd like to provide feedback about something. I'm a longtime customer.,General/Irrelevant,Medium
+1393,Something's wrong with my access.,Account Management,Medium
+1394,Can you help me set up two-factor authentication?,Account Management,Medium
+1395,Is this item still being manufactured?,Product Inquiry,Medium
+1396,i need to change my account password.,Account Management,High
+1397,I'm unable to reset my password.,Account Management,Medium
+1398,I'd like to return this purchase for a refund.,Returns & Refunds,Medium
+1399,What options are available for customization?,Product Inquiry,Medium
+1400,the page loads extremely slowly for me.,Technical Support,Medium
+1401,Something's wrong with my access. I hope you're having a good day.,Account Management,Medium
+1402,Can you process a refund for my recent purchase? I'm a longtime customer.,Billing & Payments,Medium
+1403,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+1404,I'm experiencing performance issues with the platform. Thanks for your assistance.,Technical Support,Low
+1405,i'm unable to reset my password.,Account Management,Medium
+1406,is this item available in different sizes or colors?,Product Inquiry,Medium
+1407,The service seems to be down or experiencing technical difficulties. I hope you're having a good day.,Technical Support,Medium
+1408,Can I get a refund for this purchase?,Returns & Refunds,Medium
+1409,I have a question about an item.,Product Inquiry,Low
+1410,The amount I was charged seems incorrect. I appreciate your help with this.,Billing & Payments,Medium
+1411,What can you tell me about your company?,General/Irrelevant,Medium
+1412,The amount I was charged seems incorrect.,Billing & Payments,Medium
+1413,I can't seem to access the platform from my device.,Technical Support,Medium
+1414,just checking in to see how things are going. this is my first time contacting support.,General/Irrelevant,Medium
+1415,i need assistance with something. this is my first time contacting support.,General/Irrelevant,High
+1416,I need to update my payment information.,Billing & Payments,High
+1417,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+1418,The application keeps crashing whenever I try to use this feature. I appreciate your help with this.,Technical Support,Low
+1419,The feature you mentioned isn't working as described.,Technical Support,Medium
+1420,"I need to update my payment information. By the way, the weather is nice today.",Billing & Payments,High
+1421,The application froze while I was using it. Looking forward to your response.,Technical Support,Medium
+1422,I have an issue with my account - something isn't working right.,Technical Support,Medium
+1423,i need to send this back as it's not what i expected.,Returns & Refunds,High
+1424,What options are available for customization?,Product Inquiry,Medium
+1425,How do I initiate a return?,Returns & Refunds,Medium
+1426,What features are included in this version?,Product Inquiry,Medium
+1427,What accessories are compatible with this product? I'm a longtime customer.,Product Inquiry,Medium
+1428,Something's wrong with my access.,Account Management,Medium
+1429,"what are the main features of this product? by the way, the weather is nice today.",Product Inquiry,Medium
+1430,I'm having trouble connecting to the service. I'm a longtime customer.,Technical Support,Medium
+1431,Is this item available in different sizes or colors?,Product Inquiry,Medium
+1432,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+1433,Can you process a refund for my recent purchase? I'm a longtime customer.,Billing & Payments,Medium
+1434,I need help accessing my account. This is my first time contacting support.,Account Management,High
+1435,there's a problem i need help with.,Technical Support,High
+1436,I have an issue with my account.,Account Management,Medium
+1437,Can you help me with some information?,General/Irrelevant,Low
+1438,I'm interested in learning more about your services.,General/Irrelevant,Medium
+1439,The application froze while I was using it.,Technical Support,Medium
+1440,can you help me with my account issue?,Account Management,Medium
+1441,"Hi there, just wanted to reach out. I hope you're having a good day.",General/Irrelevant,Medium
+1442,Something's wrong with my access.,Account Management,Medium
+1443,What's the difference between these product versions?,Product Inquiry,Medium
+1444,I'm reaching out about something.,General/Irrelevant,Medium
+1445,I'm having trouble connecting to the service. Thanks for your assistance.,Technical Support,Low
+1446,I need assistance with my account. Thanks for your assistance.,Account Management,High
+1447,Is this item still being manufactured? I hope you're having a good day.,Product Inquiry,Medium
+1448,I was charged multiple times for the same order.,Billing & Payments,Medium
+1449,"I received a damaged item and would like to return it. By the way, the weather is nice today.",Returns & Refunds,Medium
+1450,I'm interested in learning more about your services. Looking forward to your response.,General/Irrelevant,Medium
+1451,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+1452,the product arrived defective and doesn't work.,Returns & Refunds,Medium
+1453,i have a question about an item. looking forward to your response.,Technical Support,Low
+1454,There's a problem I need help with.,General/Irrelevant,High
+1455,I need to change my account password.,Account Management,High
+1456,I need assistance regarding something. This is my first time contacting support.,Product Inquiry,High
+1457,the item i received wasn't what i ordered.,Returns & Refunds,Medium
+1458,I'm looking for more details about something.,Product Inquiry,Medium
+1459,Can you assist me with something?,Returns & Refunds,Medium
+1460,I have a question for you.,General/Irrelevant,Low
+1461,I'd like to provide feedback about something.,General/Irrelevant,Medium
+1462,What are the main features of this product?,Product Inquiry,Medium
+1463,I have an issue with my account.,Account Management,Medium
+1464,I'm having trouble connecting to the service. Looking forward to your response.,General/Irrelevant,Medium
+1465,the wrong item was sent to me.,Returns & Refunds,Medium
+1466,Something isn't functioning correctly in the application.,Technical Support,Medium
+1467,The application keeps crashing whenever I try to use this feature. Looking forward to your response.,Technical Support,Low
+1468,I forgot my login credentials.,Account Management,Medium
+1469,I need assistance regarding something. I appreciate your help with this.,Product Inquiry,High
+1470,I'd like to return this item and get my money back.,Returns & Refunds,Medium
+1471,I think my account has been compromised. I hope you're having a good day.,Account Management,Medium
+1472,Can you help me set up two-factor authentication?,Account Management,Medium
+1473,i need assistance with an issue.,Technical Support,High
+1474,Can you help me with some information? I hope you're having a good day.,Product Inquiry,Low
+1475,I have a question that might not fit your usual categories.,General/Irrelevant,Low
+1476,There's a problem I need help with.,Technical Support,High
+1477,"I have an issue with my recent purchase. By the way, the weather is nice today.",Billing & Payments,Medium
+1478,the application keeps crashing whenever i try to use this feature.,Technical Support,Low
+1479,Something's wrong with my access.,Account Management,Medium
+1480,i need help with my purchase.,Returns & Refunds,High
+1481,can you help me recover my account access?,Account Management,Medium
+1482,Can you help me understand this transaction from last week?,Billing & Payments,Medium
+1483,I need help with my purchase.,Returns & Refunds,High
+1484,I think my account has been compromised.,Account Management,Medium
+1485,What accessories are compatible with this product? This is my first time contacting support.,Product Inquiry,Medium
+1486,i have an issue with my recent purchase.,Billing & Payments,Medium
+1487,I have an issue with my recent purchase.,Billing & Payments,Medium
+1488,do you have any recommendations for me? i'm a longtime customer.,General/Irrelevant,Medium
+1489,how do i update my profile information?,Account Management,Low
+1490,The wrong item was sent to me.,Returns & Refunds,Medium
+1491,i'm looking for more details about something.,Product Inquiry,Medium
+1492,How do I verify my email address?,Account Management,Medium
+1493,What features are included in this version?,Product Inquiry,Medium
+1494,My credit card declined but I was still charged.,Billing & Payments,Medium
+1495,I have an issue with my recent purchase. I hope you're having a good day.,Billing & Payments,Medium
+1496,The service seems to be down or experiencing technical difficulties.,Technical Support,Low
+1497,can you provide some information about something?,General/Irrelevant,Low
+1498,the feature you mentioned isn't working as described.,Technical Support,Medium
+1499,what can you tell me about your company?,General/Irrelevant,Medium
+1500,What are the main features of this product?,Product Inquiry,Medium
+1501,The system returned an unexpected error code.,Technical Support,Medium
+1502,i have a question for you.,General/Irrelevant,Low
+1503,I need assistance with something.,General/Irrelevant,High
+1504,I'd like to know more about your latest product offerings. Looking forward to your response.,Product Inquiry,High
+1505,Can you provide some information about something?,General/Irrelevant,Low
+1506,I have a question for you.,Account Management,Medium
+1507,I'm having trouble logging into my account.,Account Management,Medium
+1508,I'm looking for some general information.,General/Irrelevant,Low
+1509,I need to send this back as it's not what I expected.,Returns & Refunds,High
+1510,i'd like to return this item and get my money back.,Returns & Refunds,Medium
+1511,"I have an issue with my recent purchase. By the way, the weather is nice today.",Billing & Payments,Medium
+1512,i need assistance with an issue.,Billing & Payments,High
+1513,can you help me out? i appreciate your help with this.,Product Inquiry,Medium
+1514,I received a damaged item and would like to return it.,Returns & Refunds,Medium
+1515,The application keeps crashing whenever I try to use this feature.,Technical Support,Low
+1516,can you help me with some information?,Product Inquiry,Low
+1517,The page loads extremely slowly for me.,Technical Support,High
+1518,i have an issue with my account.,Account Management,High
+1519,can you help me with my purchase?,Billing & Payments,Medium
+1520,"I have a question that might not fit your usual categories. By the way, the weather is nice today.",General/Irrelevant,Low
+1521,Can you help me resolve this problem?,Technical Support,Medium
+1522,There seems to be a problem with the recent charge on my account.,Product Inquiry,Medium
+1523,I'd like to return this purchase for a refund.,Returns & Refunds,Medium
+1524,My credit card declined but I was still charged. This is my first time contacting support.,Billing & Payments,Medium
+1525,Can I get a refund for this purchase?,Returns & Refunds,Medium
+1526,Can you help me resolve this problem?,Technical Support,Medium
+1527,I can't seem to access the platform from my device. Looking forward to your response.,Technical Support,Medium
+1528,"This product doesn't meet my expectations and I'd like to return it. By the way, the weather is nice today.",Returns & Refunds,Medium
+1529,can i get a refund for this purchase?,Returns & Refunds,Medium
+1530,can you help me with my account issue? i'm a longtime customer.,Billing & Payments,Medium
+1531,Can you help me understand this transaction from last week?,Billing & Payments,Medium
+1532,i was charged multiple times for the same order.,Billing & Payments,Medium
+1533,How do I update my profile information?,Account Management,Low
+1534,what accessories are compatible with this product?,Product Inquiry,Medium
+1535,Can you help me with my purchase?,Account Management,Medium
+1536,The wrong item was sent to me.,Returns & Refunds,Medium
+1537,how do i initiate a return?,Returns & Refunds,Medium
+1538,I was charged multiple times for the same order.,Billing & Payments,Medium
+1539,This product doesn't meet my expectations and I'd like to return it.,Returns & Refunds,Medium
+1540,Is this item available in different sizes or colors?,Product Inquiry,Medium
+1541,What's the difference between these product versions?,Product Inquiry,Medium
+1542,I'm having trouble connecting to the service.,Technical Support,Medium
+1543,Can you provide some information about something?,Billing & Payments,Low
+1544,i'm interested in learning more about your services.,General/Irrelevant,Medium
+1545,can you process a refund for my recent purchase?,Billing & Payments,Medium
+1546,I received a damaged item and would like to return it.,Returns & Refunds,Medium
+1547,i have an issue with my recent order. i hope you're having a good day.,Returns & Refunds,Medium
+1548,Can you help me out?,General/Irrelevant,Medium
+1549,I was charged multiple times for the same order.,Billing & Payments,Medium
+1550,I'm experiencing performance issues with the platform.,Technical Support,Medium
+1551,Can you process a refund for my recent purchase?,Billing & Payments,Medium
+1552,just checking in to see how things are going.,General/Irrelevant,Medium
+1553,I didn't authorize this charge on my account.,Account Management,Medium
+1554,Just checking in to see how things are going.,General/Irrelevant,Medium
+1555,can you help me with some information?,General/Irrelevant,Low
+1556,i need to send this back as it's not what i expected.,Returns & Refunds,High
+1557,Can I get a refund for this purchase?,Returns & Refunds,Medium
+1558,Something's wrong with my access.,Account Management,Medium
+1559,Can I exchange this for a different option?,General/Irrelevant,Medium
+1560,Can you help me with some information?,General/Irrelevant,Low
+1561,Something's wrong with my access.,Account Management,Medium
+1562,Is this item still being manufactured?,Product Inquiry,Medium
+1563,the service seems to be down or experiencing technical difficulties. i appreciate your help with this.,Technical Support,Medium
+1564,can you process a refund for my recent purchase?,Billing & Payments,Medium
+1565,i noticed an issue with my account - the amount doesn't match what i expected.,Billing & Payments,Medium
+1566,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+1567,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+1568,the system returned an unexpected error code.,Technical Support,Medium
+1569,Do you have information about what's included in the package?,Product Inquiry,Low
+1570,Can you help me with some information?,General/Irrelevant,Low
+1571,This product doesn't meet my expectations and I'd like to return it.,Returns & Refunds,Medium
+1572,What features are included in this version? I hope you're having a good day.,Product Inquiry,Medium
+1573,How do I update my profile information? I appreciate your help with this.,Account Management,Low
+1574,Something isn't functioning correctly in the application. Thanks for your assistance.,Technical Support,Medium
+1575,I wanted to ask about something in general.,General/Irrelevant,Low
+1576,Can you tell me more about the specifications? Thanks for your assistance.,Product Inquiry,Low
+1577,I have an issue with my account - something isn't working right. Looking forward to your response.,Technical Support,Medium
+1578,I have an issue with my recent purchase.,Billing & Payments,Medium
+1579,Can you help me resolve this problem?,Technical Support,Medium
+1580,I need assistance with my account.,Account Management,High
+1581,"the feature you mentioned isn't working as described. by the way, the weather is nice today.",Technical Support,Medium
+1582,Can you help me with some information?,General/Irrelevant,Low
+1583,i'd like to return this item and get my money back.,Returns & Refunds,Medium
+1584,Can you help me with some information? I hope you're having a good day.,General/Irrelevant,Low
+1585,Can I exchange this for a different option?,Returns & Refunds,Medium
+1586,Something is wrong with what I received.,Returns & Refunds,Medium
+1587,I have a question for you.,General/Irrelevant,Low
+1588,I'm looking for some general information.,General/Irrelevant,Low
+1589,I can't seem to access the platform from my device.,Technical Support,Medium
+1590,Is this item available in different sizes or colors?,Product Inquiry,Medium
+1591,Can you help me out?,General/Irrelevant,Medium
+1592,i'm interested in learning more about your services.,General/Irrelevant,Medium
+1593,This product doesn't meet my expectations and I'd like to return it.,Returns & Refunds,Medium
+1594,Something's wrong with my access. Looking forward to your response.,Account Management,Medium
+1595,How do I verify my email address?,Account Management,Medium
+1596,there seems to be a problem with the recent charge on my account. looking forward to your response.,Billing & Payments,Medium
+1597,I forgot my login credentials.,Account Management,Medium
+1598,I need to update my payment information.,Billing & Payments,High
+1599,Something is wrong with what I received.,Technical Support,Medium
+1600,the system returned an unexpected error code. thanks for your assistance.,Technical Support,Low
+1601,"there's a discrepancy in my billing statement. by the way, the weather is nice today.",Billing & Payments,Medium
+1602,The feature you mentioned isn't working as described.,Technical Support,Medium
+1603,I received a damaged item and would like to return it. Thanks for your assistance.,Returns & Refunds,Low
+1604,I'd like to return this purchase for a refund. I appreciate your help with this.,Returns & Refunds,Medium
+1605,The amount I was charged seems incorrect.,Billing & Payments,Medium
+1606,What's the difference between these product versions?,Product Inquiry,Medium
+1607,The system returned an unexpected error code.,Returns & Refunds,Medium
+1608,i have a question for you.,General/Irrelevant,Low
+1609,I'm interested in learning more about your services.,General/Irrelevant,High
+1610,The shipment included an incorrect item. This is my first time contacting support.,Returns & Refunds,Medium
+1611,can you help me recover my account access?,Account Management,Medium
+1612,what features are included in this version?,Product Inquiry,Medium
+1613,I have an issue with my recent purchase.,Billing & Payments,Medium
+1614,can you help me with some information?,General/Irrelevant,Low
+1615,Can I get a refund for this purchase?,Returns & Refunds,Medium
+1616,I'd like to know more about your latest product offerings.,Product Inquiry,High
+1617,Can you assist me with something?,Returns & Refunds,Medium
+1618,Do you have any recommendations for me?,General/Irrelevant,Medium
+1619,I'm looking for some general information. I'm a longtime customer.,General/Irrelevant,Low
+1620,I'd like to provide feedback about something.,General/Irrelevant,Medium
+1621,i have a general inquiry for your team.,General/Irrelevant,Low
+1622,Can I exchange this for a different option?,General/Irrelevant,Medium
+1623,can you provide some information about something?,General/Irrelevant,Low
+1624,"I have an issue with my recent order. By the way, the weather is nice today.",Returns & Refunds,Medium
+1625,"Hi there, just wanted to reach out.",General/Irrelevant,Medium
+1626,"Hi there, just wanted to reach out. By the way, the weather is nice today.",General/Irrelevant,Low
+1627,there's a discrepancy in my billing statement.,Billing & Payments,Medium
+1628,the shipment included an incorrect item. i hope you're having a good day.,Returns & Refunds,Medium
+1629,There's a problem I need help with.,Technical Support,High
+1630,I need assistance regarding something. This is my first time contacting support.,Product Inquiry,High
+1631,I need to send this back as it's not what I expected.,Returns & Refunds,High
+1632,I forgot my login credentials. I appreciate your help with this.,Account Management,Medium
+1633,I'm reaching out about something.,General/Irrelevant,Medium
+1634,Do you have information about what's included in the package? I'm a longtime customer.,Product Inquiry,Low
+1635,I'm reaching out about something. I hope you're having a good day.,General/Irrelevant,Medium
+1636,the application froze while i was using it.,Technical Support,Medium
+1637,I need help with my purchase.,Returns & Refunds,High
+1638,I'm unable to reset my password.,Account Management,Medium
+1639,I need assistance with an issue.,Technical Support,High
+1640,The application froze while I was using it.,Technical Support,Medium
+1641,What's the difference between these product versions?,Account Management,Medium
+1642,how do i update my profile information?,Account Management,Low
+1643,My credit card declined but I was still charged. Thanks for your assistance.,Billing & Payments,Low
+1644,I forgot my login credentials. Thanks for your assistance.,Account Management,Low
+1645,I'd like to update my account information.,Account Management,Low
+1646,i'd like to know more about your latest product offerings. i hope you're having a good day.,Product Inquiry,High
+1647,the shipment included an incorrect item. looking forward to your response.,Returns & Refunds,Medium
+1648,I forgot my login credentials.,Account Management,Medium
+1649,I forgot my login credentials. Thanks for your assistance.,Account Management,Low
+1650,I'd like to provide feedback about something.,General/Irrelevant,Medium
+1651,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+1652,can you help me with my account issue?,Account Management,Medium
+1653,I'd like to update my account information. This is my first time contacting support.,Account Management,Low
+1654,I need help with my purchase.,General/Irrelevant,High
+1655,"The amount I was charged seems incorrect. By the way, the weather is nice today.",Billing & Payments,Medium
+1656,I think my account has been compromised.,Account Management,Medium
+1657,can you process a refund for my recent purchase? i'm a longtime customer.,Billing & Payments,Medium
+1658,"What options are available for customization? By the way, the weather is nice today.",Product Inquiry,Medium
+1659,I'm looking for some general information.,General/Irrelevant,Low
+1660,I'd like to update my account information. Looking forward to your response.,Account Management,Low
+1661,I'm looking for some general information. I'm a longtime customer.,General/Irrelevant,Low
+1662,i received a damaged item and would like to return it.,Returns & Refunds,Medium
+1663,I forgot my login credentials.,Account Management,Medium
+1664,the service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+1665,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+1666,there's a discrepancy in my billing statement.,Billing & Payments,Medium
+1667,I'm experiencing performance issues with the platform. I'm a longtime customer.,Technical Support,Medium
+1668,"what are the main features of this product? by the way, the weather is nice today.",Product Inquiry,Medium
+1669,I didn't authorize this charge on my account.,Account Management,Medium
+1670,I can't seem to access the platform from my device.,Technical Support,Medium
+1671,i need assistance regarding something.,Product Inquiry,High
+1672,I need to change my account password. I'm a longtime customer.,Account Management,High
+1673,Can I get a refund for this purchase? Thanks for your assistance.,Returns & Refunds,Low
+1674,i have an issue with my recent order. i'm a longtime customer.,Returns & Refunds,Medium
+1675,do you have any recommendations for me? looking forward to your response.,General/Irrelevant,Medium
+1676,I'd like to return this purchase for a refund.,Returns & Refunds,Medium
+1677,i'm looking for some general information. this is my first time contacting support.,General/Irrelevant,Low
+1678,I'd like to update my account information.,Account Management,Low
+1679,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+1680,I wanted to ask about something in general.,General/Irrelevant,Low
+1681,i'd like to return this item and get my money back.,Product Inquiry,Medium
+1682,how do i update my profile information?,Account Management,Low
+1683,There seems to be a problem with the recent charge on my account. This is my first time contacting support.,Billing & Payments,Medium
+1684,I have an issue with my recent purchase. This is my first time contacting support.,Billing & Payments,Medium
+1685,I have an issue with my recent purchase. Looking forward to your response.,Billing & Payments,Medium
+1686,The shipment included an incorrect item. I'm a longtime customer.,Returns & Refunds,Medium
+1687,My subscription hasn't been renewed properly. Thanks for your assistance.,Billing & Payments,Low
+1688,the product arrived defective and doesn't work.,Returns & Refunds,Medium
+1689,is this item still being manufactured?,Product Inquiry,Medium
+1690,Can you help me set up two-factor authentication?,General/Irrelevant,Medium
+1691,the system returned an unexpected error code.,Technical Support,Medium
+1692,can you help me set up two-factor authentication? looking forward to your response.,Account Management,Medium
+1693,can you process a refund for my recent purchase?,Billing & Payments,Medium
+1694,The application froze while I was using it. This is my first time contacting support.,Technical Support,Medium
+1695,I need assistance with my account. I hope you're having a good day.,Account Management,High
+1696,The item I received wasn't what I ordered. This is my first time contacting support.,Returns & Refunds,Medium
+1697,The application keeps crashing whenever I try to use this feature. I appreciate your help with this.,Technical Support,Low
+1698,Is this item available in different sizes or colors?,Product Inquiry,Medium
+1699,can you help me with my account issue?,Account Management,Medium
+1700,can you help me with some information?,General/Irrelevant,Low
+1701,I can't seem to access the platform from my device.,Technical Support,Medium
+1702,"hi there, just wanted to reach out.",General/Irrelevant,Medium
+1703,i'm getting error messages when trying to access certain features.,Technical Support,Medium
+1704,What accessories are compatible with this product? Looking forward to your response.,Product Inquiry,Medium
+1705,i'd like to provide feedback about something. thanks for your assistance.,General/Irrelevant,Low
+1706,Can you help me recover my account access?,Account Management,Medium
+1707,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+1708,is there a newer version available?,Product Inquiry,Medium
+1709,the service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+1710,Can you provide some information about something?,General/Irrelevant,Low
+1711,I'm experiencing performance issues with the platform.,Technical Support,Medium
+1712,i'm reaching out about something.,General/Irrelevant,Medium
+1713,I'm having trouble logging into my account.,Account Management,Medium
+1714,"There's a discrepancy in my billing statement. By the way, the weather is nice today.",Account Management,Medium
+1715,Can you help me recover my account access? I appreciate your help with this.,Account Management,Medium
+1716,I have a general inquiry for your team.,General/Irrelevant,Low
+1717,the application froze while i was using it. this is my first time contacting support.,Technical Support,Medium
+1718,Can you assist me with something?,Returns & Refunds,Medium
+1719,Can you tell me more about the specifications?,Product Inquiry,Medium
+1720,Can you help me recover my account access?,Account Management,Medium
+1721,I'm experiencing performance issues with the platform. I hope you're having a good day.,Account Management,Medium
+1722,Something is wrong with my order. This is my first time contacting support.,Billing & Payments,Medium
+1723,Can you tell me more about the specifications?,Product Inquiry,Medium
+1724,Can you help me with my purchase?,Billing & Payments,Medium
+1725,I have an issue with my recent purchase.,Billing & Payments,Medium
+1726,how do i update my profile information?,Account Management,Low
+1727,can i exchange this for a different option? this is my first time contacting support.,Returns & Refunds,Medium
+1728,i'd like to return this item and get my money back.,Returns & Refunds,Medium
+1729,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+1730,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+1731,I can't seem to access the platform from my device. This is my first time contacting support.,Technical Support,Medium
+1732,"Hi there, just wanted to reach out.",General/Irrelevant,Medium
+1733,I have an issue with my recent order.,Returns & Refunds,Medium
+1734,I'd like to return this item and get my money back.,Returns & Refunds,Medium
+1735,The page loads extremely slowly for me. Looking forward to your response.,Technical Support,Medium
+1736,my subscription hasn't been renewed properly. i hope you're having a good day.,Billing & Payments,Medium
+1737,i'm having trouble connecting to the service.,Technical Support,Medium
+1738,I'd like to return this purchase for a refund.,Returns & Refunds,Medium
+1739,i'd like to update my account information.,Account Management,Low
+1740,i received a damaged item and would like to return it.,Returns & Refunds,Medium
+1741,i'd like to update my account information.,Account Management,Low
+1742,i need assistance with my account.,Account Management,High
+1743,I'm having trouble logging into my account. Thanks for your assistance.,Account Management,Low
+1744,I'm experiencing performance issues with the platform.,Technical Support,Medium
+1745,can you process a refund for my recent purchase? i'm a longtime customer.,Billing & Payments,Medium
+1746,I have an issue with my account - something isn't working right.,Technical Support,Medium
+1747,what are the main features of this product?,Product Inquiry,Medium
+1748,I'd like to update my account information.,Account Management,Low
+1749,What features are included in this version?,Product Inquiry,Medium
+1750,i need assistance with an issue. i'm a longtime customer.,Technical Support,High
+1751,How do I change my subscription settings?,Billing & Payments,Medium
+1752,Can you help me with some information?,Product Inquiry,Medium
+1753,is this item available in different sizes or colors? this is my first time contacting support.,Product Inquiry,Medium
+1754,can you assist me with something?,Returns & Refunds,Medium
+1755,I wanted to ask about something in general.,General/Irrelevant,Low
+1756,Can you assist me with something?,Returns & Refunds,Medium
+1757,Something isn't functioning correctly in the application. Looking forward to your response.,Technical Support,Medium
+1758,I'm unable to reset my password.,Account Management,Medium
+1759,Something isn't functioning correctly in the application.,Technical Support,Medium
+1760,Something isn't functioning correctly in the application.,Technical Support,Medium
+1761,Is there a newer version available?,Product Inquiry,Medium
+1762,I'm interested in learning more about your services.,General/Irrelevant,Medium
+1763,"Hi there, just wanted to reach out. I appreciate your help with this.",General/Irrelevant,Medium
+1764,I'm having trouble connecting to the service.,Technical Support,Medium
+1765,I can't seem to access the platform from my device.,Technical Support,Medium
+1766,I need assistance regarding something.,Product Inquiry,High
+1767,I need assistance with an issue.,Technical Support,Medium
+1768,What features are included in this version?,Product Inquiry,Medium
+1769,Can you help me with my account issue?,Account Management,Medium
+1770,What accessories are compatible with this product? I'm a longtime customer.,Product Inquiry,Medium
+1771,I need help accessing my account.,Account Management,High
+1772,Something is wrong with what I received.,Returns & Refunds,Medium
+1773,what accessories are compatible with this product?,Product Inquiry,Medium
+1774,The application froze while I was using it.,Technical Support,Medium
+1775,What accessories are compatible with this product? I appreciate your help with this.,Product Inquiry,Medium
+1776,I'm interested in learning more about your services.,General/Irrelevant,Medium
+1777,I wanted to ask about something in general.,General/Irrelevant,Low
+1778,i need assistance with an issue.,Technical Support,High
+1779,Is this item still being manufactured?,Product Inquiry,Medium
+1780,Can you help me recover my account access?,Account Management,Medium
+1781,I received a damaged item and would like to return it. I'm a longtime customer.,Returns & Refunds,Medium
+1782,i have an issue with my account - something isn't working right.,Technical Support,Medium
+1783,how do i verify my email address?,Account Management,Medium
+1784,Can you assist me with something?,Returns & Refunds,Medium
+1785,is this item still being manufactured?,Product Inquiry,Medium
+1786,Something's wrong with my access.,Account Management,Medium
+1787,i have a general inquiry for your team.,General/Irrelevant,Low
+1788,Can you help me with some information?,Product Inquiry,Low
+1789,my subscription hasn't been renewed properly.,Billing & Payments,Medium
+1790,I was charged multiple times for the same order.,Billing & Payments,Medium
+1791,I'm having trouble connecting to the service.,Technical Support,Medium
+1792,i need to change my account password.,Account Management,High
+1793,i'm reaching out about something.,Account Management,Medium
+1794,Is this item still being manufactured? I'm a longtime customer.,Product Inquiry,Medium
+1795,Something's wrong with my access.,Account Management,Medium
+1796,"i need assistance with my account. by the way, the weather is nice today.",Account Management,High
+1797,Do you have any recommendations for me?,General/Irrelevant,Medium
+1798,The feature you mentioned isn't working as described.,Technical Support,Medium
+1799,i'm looking for some general information.,General/Irrelevant,Low
+1800,i think my account has been compromised.,Account Management,Medium
+1801,Something is wrong with my order. I appreciate your help with this.,Billing & Payments,Medium
+1802,I noticed an issue with my account - the amount doesn't match what I expected. I'm a longtime customer.,Billing & Payments,Medium
+1803,Something is wrong with what I received. Thanks for your assistance.,Returns & Refunds,Low
+1804,I think my account has been compromised.,Product Inquiry,Medium
+1805,Can you tell me more about the specifications?,Product Inquiry,Medium
+1806,How do I update my profile information? I'm a longtime customer.,Technical Support,Low
+1807,"Hi there, just wanted to reach out.",General/Irrelevant,Medium
+1808,I forgot my login credentials.,Account Management,Medium
+1809,The application froze while I was using it.,Technical Support,Medium
+1810,Can you assist me with something?,Returns & Refunds,Medium
+1811,Can you assist me with something? This is my first time contacting support.,Returns & Refunds,Medium
+1812,How do I update my profile information? Thanks for your assistance.,Account Management,Low
+1813,Something's wrong with my access.,Account Management,Medium
+1814,Something is wrong with my order.,Billing & Payments,Medium
+1815,The amount I was charged seems incorrect.,Billing & Payments,Medium
+1816,Can I exchange this for a different option? Thanks for your assistance.,Returns & Refunds,Low
+1817,Something isn't functioning correctly in the application.,Technical Support,Medium
+1818,I need help with my purchase.,Returns & Refunds,High
+1819,Can I change the email associated with my account?,Account Management,Medium
+1820,"Hi there, just wanted to reach out.",General/Irrelevant,Medium
+1821,Is this item available in different sizes or colors? Thanks for your assistance.,Product Inquiry,Low
+1822,i'm unable to reset my password.,Account Management,Medium
+1823,I didn't authorize this charge on my account.,Billing & Payments,Medium
+1824,I wanted to ask about something in general.,General/Irrelevant,Low
+1825,How do I update my profile information? This is my first time contacting support.,Account Management,Low
+1826,What's the difference between these product versions? Looking forward to your response.,Product Inquiry,Medium
+1827,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+1828,Can you help me recover my account access?,Account Management,Medium
+1829,I'm reaching out about something.,General/Irrelevant,Medium
+1830,My subscription hasn't been renewed properly.,Billing & Payments,Medium
+1831,The item I received wasn't what I ordered.,Returns & Refunds,Medium
+1832,The application keeps crashing whenever I try to use this feature.,Technical Support,Low
+1833,I need assistance regarding something.,Product Inquiry,High
+1834,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+1835,something is wrong with my order.,Billing & Payments,Medium
+1836,I have a question for you.,General/Irrelevant,Low
+1837,Can I change the email associated with my account?,Account Management,Medium
+1838,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+1839,My credit card declined but I was still charged. I appreciate your help with this.,Billing & Payments,Medium
+1840,I need assistance with something. I hope you're having a good day.,General/Irrelevant,High
+1841,i'm having trouble logging into my account. i'm a longtime customer.,Account Management,Medium
+1842,"Can you provide more details about the product? By the way, the weather is nice today.",Product Inquiry,Medium
+1843,The shipment included an incorrect item.,Returns & Refunds,High
+1844,i need help with my purchase. looking forward to your response.,Technical Support,High
+1845,i can't seem to access the platform from my device.,Technical Support,Medium
+1846,i need to send this back as it's not what i expected.,Returns & Refunds,High
+1847,I'd like to update my account information. This is my first time contacting support.,Account Management,Low
+1848,I have an issue with my account. I appreciate your help with this.,Account Management,Medium
+1849,i can't seem to access the platform from my device. thanks for your assistance.,Technical Support,Low
+1850,How do I change my subscription settings? This is my first time contacting support.,Billing & Payments,Medium
+1851,Just checking in to see how things are going. This is my first time contacting support.,General/Irrelevant,Medium
+1852,i need assistance regarding something. i hope you're having a good day.,Product Inquiry,High
+1853,"the wrong item was sent to me. by the way, the weather is nice today.",Returns & Refunds,Medium
+1854,I forgot my login credentials.,Account Management,Medium
+1855,The page loads extremely slowly for me.,Technical Support,Medium
+1856,Is this item available in different sizes or colors?,Product Inquiry,Medium
+1857,What accessories are compatible with this product?,Product Inquiry,Low
+1858,I'm looking for more details about something.,Product Inquiry,Medium
+1859,I need assistance with my account. Thanks for your assistance.,Account Management,High
+1860,"I have a question for you. By the way, the weather is nice today.",General/Irrelevant,Low
+1861,What features are included in this version? I appreciate your help with this.,Product Inquiry,Medium
+1862,I'm reaching out about something.,General/Irrelevant,Medium
+1863,The item I received wasn't what I ordered. Thanks for your assistance.,Returns & Refunds,Low
+1864,Can you help me with some information? I appreciate your help with this.,General/Irrelevant,Low
+1865,i have an issue with my account - something isn't working right. i appreciate your help with this.,Technical Support,Medium
+1866,Can you help me resolve this problem?,Technical Support,Medium
+1867,I have an issue with my recent order. I appreciate your help with this.,Returns & Refunds,Medium
+1868,The page loads extremely slowly for me. This is my first time contacting support.,Technical Support,Medium
+1869,There's a bug in the system that prevents me from completing my task. I appreciate your help with this.,Technical Support,Medium
+1870,My subscription hasn't been renewed properly.,Billing & Payments,Medium
+1871,How do I initiate a return?,Returns & Refunds,Medium
+1872,I'd like to return this item and get my money back. I appreciate your help with this.,Returns & Refunds,Medium
+1873,The amount I was charged seems incorrect. Thanks for your assistance.,Billing & Payments,Low
+1874,can you provide more details about the product?,Product Inquiry,Medium
+1875,I need assistance with an issue. I hope you're having a good day.,Technical Support,High
+1876,Can I exchange this for a different option?,Returns & Refunds,Medium
+1877,I need assistance with an issue.,Technical Support,High
+1878,There's a problem I need help with.,Technical Support,High
+1879,I noticed an issue with my account - the amount doesn't match what I expected. Thanks for your assistance.,Billing & Payments,Low
+1880,I'd like to return this purchase for a refund. Thanks for your assistance.,Returns & Refunds,Low
+1881,i wanted to ask about something in general.,Returns & Refunds,Low
+1882,The application keeps crashing whenever I try to use this feature. I hope you're having a good day.,Technical Support,Low
+1883,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+1884,Can you help me out?,General/Irrelevant,Medium
+1885,just checking in to see how things are going.,General/Irrelevant,Medium
+1886,The application keeps crashing whenever I try to use this feature. I'm a longtime customer.,Technical Support,Low
+1887,"what are the main features of this product? by the way, the weather is nice today.",Product Inquiry,Medium
+1888,Can you help me resolve this problem?,Technical Support,Medium
+1889,i'm having trouble logging into my account.,General/Irrelevant,Medium
+1890,I need assistance regarding something.,Product Inquiry,High
+1891,The application froze while I was using it.,Technical Support,Medium
+1892,how do i update my profile information?,Account Management,Low
+1893,i have a general inquiry for your team.,Technical Support,Low
+1894,Is there a newer version available?,Product Inquiry,Medium
+1895,The wrong item was sent to me.,Returns & Refunds,Medium
+1896,I have a question for you.,General/Irrelevant,Low
+1897,can you process a refund for my recent purchase? i hope you're having a good day.,Billing & Payments,Medium
+1898,i have a general inquiry for your team. i hope you're having a good day.,Technical Support,Low
+1899,"I need help accessing my account. By the way, the weather is nice today.",Account Management,High
+1900,My subscription hasn't been renewed properly. I'm a longtime customer.,Billing & Payments,Medium
+1901,Can you help me with my purchase? I hope you're having a good day.,Billing & Payments,Medium
+1902,"Can you provide more details about the product? By the way, the weather is nice today.",Product Inquiry,Medium
+1903,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+1904,Can you help me with my purchase?,Billing & Payments,Medium
+1905,I have a question about an item.,Product Inquiry,Low
+1906,I need help with my purchase.,Returns & Refunds,High
+1907,I was charged multiple times for the same order. Looking forward to your response.,Billing & Payments,Medium
+1908,"i have an issue with my account - something isn't working right. by the way, the weather is nice today.",Technical Support,Medium
+1909,something is wrong with my order.,Billing & Payments,Medium
+1910,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+1911,I have a general inquiry for your team.,General/Irrelevant,Low
+1912,can you help me with some information?,Product Inquiry,Low
+1913,I think my account has been compromised.,Account Management,Medium
+1914,I have an issue with my account - something isn't working right.,Technical Support,Medium
+1915,can you assist me with something?,Returns & Refunds,Medium
+1916,i need to update my payment information. i appreciate your help with this.,Billing & Payments,High
+1917,Can you provide some information about something?,General/Irrelevant,Low
+1918,the system returned an unexpected error code.,Technical Support,Medium
+1919,There seems to be a problem with the recent charge on my account.,Billing & Payments,Medium
+1920,something is wrong with what i received. looking forward to your response.,Returns & Refunds,Medium
+1921,I'm having trouble logging into my account.,Account Management,Medium
+1922,i need assistance with an issue.,Technical Support,High
+1923,I'd like to provide feedback about something.,General/Irrelevant,Medium
+1924,I'd like to return this item and get my money back. I'm a longtime customer.,Returns & Refunds,Medium
+1925,Can you help me with some information?,Product Inquiry,Low
+1926,"The item I received wasn't what I ordered. By the way, the weather is nice today.",Returns & Refunds,Medium
+1927,can you help me out? thanks for your assistance.,General/Irrelevant,Low
+1928,i'm reaching out about something. i hope you're having a good day.,General/Irrelevant,Medium
+1929,The wrong item was sent to me.,Returns & Refunds,Medium
+1930,The item I received wasn't what I ordered.,Returns & Refunds,Medium
+1931,The amount I was charged seems incorrect.,Billing & Payments,Medium
+1932,can you provide more details about the product?,Product Inquiry,Medium
+1933,I think my account has been compromised. I hope you're having a good day.,Account Management,Medium
+1934,The system returned an unexpected error code.,Technical Support,Medium
+1935,The feature you mentioned isn't working as described. I appreciate your help with this.,Technical Support,Medium
+1936,i need assistance with an issue.,Technical Support,High
+1937,I need assistance with something. I'm a longtime customer.,General/Irrelevant,High
+1938,Can you tell me more about the specifications? I appreciate your help with this.,Product Inquiry,Medium
+1939,can you help me with my account issue?,Account Management,Medium
+1940,i need assistance with something. i hope you're having a good day.,General/Irrelevant,High
+1941,I received a damaged item and would like to return it.,Returns & Refunds,Medium
+1942,i have an issue with my account. i appreciate your help with this.,Account Management,Medium
+1943,I'm experiencing performance issues with the platform.,Technical Support,Medium
+1944,Can you help me out?,General/Irrelevant,Medium
+1945,I noticed an issue with my account - the amount doesn't match what I expected.,Billing & Payments,Medium
+1946,I forgot my login credentials. This is my first time contacting support.,Account Management,Medium
+1947,the wrong item was sent to me.,Returns & Refunds,Medium
+1948,just checking in to see how things are going. thanks for your assistance.,General/Irrelevant,Low
+1949,This product doesn't meet my expectations and I'd like to return it.,Returns & Refunds,Medium
+1950,Can you tell me more about the specifications?,Product Inquiry,Medium
+1951,My subscription hasn't been renewed properly.,Billing & Payments,Medium
+1952,I'm having trouble logging into my account. I hope you're having a good day.,Account Management,Medium
+1953,What options are available for customization?,Product Inquiry,Medium
+1954,i have a question about an item.,Product Inquiry,Low
+1955,The page loads extremely slowly for me.,Technical Support,Medium
+1956,I'd like to know more about your latest product offerings. I hope you're having a good day.,Product Inquiry,High
+1957,I'd like to update my account information. This is my first time contacting support.,Account Management,Low
+1958,"Something is wrong with my order. By the way, the weather is nice today.",Billing & Payments,Medium
+1959,the amount i was charged seems incorrect.,Billing & Payments,Medium
+1960,The application froze while I was using it.,Technical Support,Medium
+1961,Just checking in to see how things are going.,General/Irrelevant,Medium
+1962,I received a damaged item and would like to return it.,Returns & Refunds,Medium
+1963,How do I verify my email address?,Account Management,Medium
+1964,The amount I was charged seems incorrect.,Billing & Payments,Medium
+1965,can you process a refund for my recent purchase?,Billing & Payments,Medium
+1966,Can you help me recover my account access?,Account Management,Medium
+1967,I'm experiencing performance issues with the platform.,Technical Support,Medium
+1968,can you help me with some information?,General/Irrelevant,Low
+1969,Can you provide some information about something?,General/Irrelevant,Low
+1970,I need help with my purchase.,Returns & Refunds,High
+1971,I need to send this back as it's not what I expected.,Returns & Refunds,High
+1972,I'd like to provide feedback about something.,General/Irrelevant,Medium
+1973,I have an issue with my account - something isn't working right.,Technical Support,Medium
+1974,can you assist me with something?,Returns & Refunds,Medium
+1975,the product arrived defective and doesn't work.,Returns & Refunds,Medium
+1976,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+1977,can i change the email associated with my account?,Account Management,Medium
+1978,How do I verify my email address? I'm a longtime customer.,Account Management,Medium
+1979,I need to send this back as it's not what I expected.,Returns & Refunds,Low
+1980,can you help me out?,General/Irrelevant,Low
+1981,"Hi there, just wanted to reach out.",General/Irrelevant,Medium
+1982,Can you help me set up two-factor authentication?,Account Management,Medium
+1983,Can you help me resolve this problem?,Technical Support,Medium
+1984,this product doesn't meet my expectations and i'd like to return it.,Returns & Refunds,Medium
+1985,What options are available for customization?,Product Inquiry,Medium
+1986,I need assistance with my account. I appreciate your help with this.,Account Management,High
+1987,I wanted to ask about something in general. I hope you're having a good day.,General/Irrelevant,Low
+1988,i'm reaching out about something. i appreciate your help with this.,General/Irrelevant,Medium
+1989,can you provide more details about the product? i'm a longtime customer.,Product Inquiry,Medium
+1990,just checking in to see how things are going.,General/Irrelevant,Medium
+1991,I need to send this back as it's not what I expected.,Returns & Refunds,High
+1992,Can you provide more details about the product?,Product Inquiry,Medium
+1993,Can I change the email associated with my account?,Account Management,Medium
+1994,the system returned an unexpected error code.,Technical Support,Medium
+1995,I have a question for you. I hope you're having a good day.,General/Irrelevant,Low
+1996,Just checking in to see how things are going.,General/Irrelevant,Medium
+1997,can you help me resolve this problem?,Technical Support,Medium
+1998,Can you help me recover my account access?,Account Management,Medium
+1999,The feature you mentioned isn't working as described.,Technical Support,Medium
+2000,the application froze while i was using it.,Technical Support,Medium
+2001,I have a question that might not fit your usual categories. I appreciate your help with this.,General/Irrelevant,Low
+2002,can you help me with some information?,General/Irrelevant,Low
+2003,can you help me recover my account access?,Account Management,Medium
+2004,Can I exchange this for a different option?,Returns & Refunds,Medium
+2005,Is this item still being manufactured?,Product Inquiry,Medium
+2006,I forgot my login credentials.,Account Management,Medium
+2007,I was charged multiple times for the same order.,Billing & Payments,Medium
+2008,I'm having trouble connecting to the service. Thanks for your assistance.,Technical Support,Low
+2009,I'm reaching out about something.,General/Irrelevant,Medium
+2010,I'm reaching out about something.,General/Irrelevant,Medium
+2011,The item I received wasn't what I ordered.,Returns & Refunds,Medium
+2012,Can I exchange this for a different option?,Returns & Refunds,Medium
+2013,My credit card declined but I was still charged.,Billing & Payments,Medium
+2014,I'd like to return this purchase for a refund. Thanks for your assistance.,Returns & Refunds,Medium
+2015,What accessories are compatible with this product?,Product Inquiry,Medium
+2016,the application keeps crashing whenever i try to use this feature. this is my first time contacting support.,Technical Support,Low
+2017,I'm looking for more details about something.,Product Inquiry,Medium
+2018,Can I change the email associated with my account?,Account Management,Medium
+2019,I think my account has been compromised.,Account Management,Medium
+2020,can you help me with some information?,General/Irrelevant,Low
+2021,what accessories are compatible with this product?,Product Inquiry,Medium
+2022,Something is wrong with my order.,Billing & Payments,Medium
+2023,Can you help me with my account issue?,Account Management,Medium
+2024,My credit card declined but I was still charged.,Billing & Payments,Medium
+2025,What are the main features of this product?,Product Inquiry,Medium
+2026,Something is wrong with my order.,Billing & Payments,Medium
+2027,I forgot my login credentials.,Account Management,Medium
+2028,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2029,The wrong item was sent to me.,Returns & Refunds,Medium
+2030,This product doesn't meet my expectations and I'd like to return it.,Returns & Refunds,Medium
+2031,Can you provide more details about the product?,Product Inquiry,Medium
+2032,I need assistance with an issue.,Technical Support,High
+2033,This product doesn't meet my expectations and I'd like to return it.,Returns & Refunds,Medium
+2034,i noticed an issue with my account - the amount doesn't match what i expected.,Billing & Payments,Medium
+2035,I'm looking for more details about something. I appreciate your help with this.,Product Inquiry,Medium
+2036,the shipment included an incorrect item.,Returns & Refunds,Medium
+2037,I need to send this back as it's not what I expected. Looking forward to your response.,Returns & Refunds,High
+2038,Something is wrong with what I received. I'm a longtime customer.,Returns & Refunds,Medium
+2039,the system returned an unexpected error code.,Technical Support,Medium
+2040,Can I change the email associated with my account?,Account Management,Medium
+2041,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2042,I need assistance with something.,General/Irrelevant,High
+2043,what options are available for customization?,Product Inquiry,Medium
+2044,Can you help me with my purchase?,Billing & Payments,Medium
+2045,"I'm unable to reset my password. By the way, the weather is nice today.",Account Management,Medium
+2046,Something is wrong with what I received. This is my first time contacting support.,Returns & Refunds,Medium
+2047,The shipment included an incorrect item.,Returns & Refunds,Medium
+2048,I need help accessing my account.,Technical Support,High
+2049,I'd like to provide feedback about something.,General/Irrelevant,Medium
+2050,I'm unable to reset my password.,Account Management,Medium
+2051,I'm interested in learning more about your services.,General/Irrelevant,Medium
+2052,there's a problem i need help with.,Technical Support,High
+2053,The feature you mentioned isn't working as described.,Technical Support,Medium
+2054,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+2055,I have an issue with my account. I'm a longtime customer.,Account Management,Medium
+2056,I have an issue with my recent order.,Returns & Refunds,Medium
+2057,is this item still being manufactured?,Product Inquiry,Medium
+2058,I can't seem to access the platform from my device. This is my first time contacting support.,Technical Support,Medium
+2059,My credit card declined but I was still charged.,Billing & Payments,Medium
+2060,can i exchange this for a different option?,Returns & Refunds,Medium
+2061,Do you have any recommendations for me?,General/Irrelevant,Medium
+2062,the product arrived defective and doesn't work.,Returns & Refunds,Medium
+2063,I'm reaching out about something. I'm a longtime customer.,General/Irrelevant,Medium
+2064,Can you provide more details about the product?,Product Inquiry,Medium
+2065,Can you help me recover my account access? I'm a longtime customer.,Account Management,Medium
+2066,"I need to send this back as it's not what I expected. By the way, the weather is nice today.",Returns & Refunds,High
+2067,What can you tell me about your company?,General/Irrelevant,Medium
+2068,I'm having trouble logging into my account.,Account Management,Medium
+2069,I didn't authorize this charge on my account.,Billing & Payments,Medium
+2070,can you help me set up two-factor authentication?,Account Management,Medium
+2071,Is there a newer version available?,Product Inquiry,Medium
+2072,is this item still being manufactured?,Product Inquiry,Medium
+2073,the application froze while i was using it.,Technical Support,Medium
+2074,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2075,"I need assistance with my account. By the way, the weather is nice today.",Account Management,High
+2076,Can you help me with some information?,Product Inquiry,Low
+2077,I noticed an issue with my account - the amount doesn't match what I expected.,Billing & Payments,Medium
+2078,Is this item available in different sizes or colors?,Product Inquiry,Medium
+2079,The page loads extremely slowly for me.,Technical Support,Medium
+2080,What options are available for customization?,Product Inquiry,Medium
+2081,do you have information about what's included in the package?,Product Inquiry,Low
+2082,Can I get a refund for this purchase?,Returns & Refunds,Medium
+2083,The wrong item was sent to me.,Returns & Refunds,Medium
+2084,Is this item available in different sizes or colors?,Product Inquiry,Medium
+2085,The application froze while I was using it.,Technical Support,Medium
+2086,how do i change my subscription settings? thanks for your assistance.,Billing & Payments,Low
+2087,Can you help me with some information? Looking forward to your response.,Product Inquiry,Low
+2088,I think my account has been compromised.,Account Management,Medium
+2089,My subscription hasn't been renewed properly.,Billing & Payments,Medium
+2090,can i change the email associated with my account?,Account Management,Medium
+2091,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2092,What's the difference between these product versions?,Product Inquiry,Medium
+2093,I need assistance regarding something.,Product Inquiry,High
+2094,the application keeps crashing whenever i try to use this feature.,Technical Support,Low
+2095,Do you have any recommendations for me? I hope you're having a good day.,General/Irrelevant,Medium
+2096,Is this item available in different sizes or colors? Looking forward to your response.,Product Inquiry,Medium
+2097,How do I update my profile information? I appreciate your help with this.,Account Management,Low
+2098,The service seems to be down or experiencing technical difficulties. This is my first time contacting support.,Technical Support,Medium
+2099,I have an issue with my recent purchase.,Billing & Payments,Medium
+2100,i noticed an issue with my account - the amount doesn't match what i expected.,Billing & Payments,Medium
+2101,The service seems to be down or experiencing technical difficulties. I'm a longtime customer.,Technical Support,Medium
+2102,Something is wrong with what I received. This is my first time contacting support.,Returns & Refunds,Medium
+2103,i have a general inquiry for your team.,Account Management,Low
+2104,I'm unable to reset my password.,Account Management,Medium
+2105,Can you help me with some information?,General/Irrelevant,Low
+2106,This product doesn't meet my expectations and I'd like to return it.,Returns & Refunds,Low
+2107,How do I verify my email address?,Account Management,Medium
+2108,What accessories are compatible with this product?,Product Inquiry,Medium
+2109,"I'm having trouble logging into my account. By the way, the weather is nice today.",Account Management,Medium
+2110,Can I get a refund for this purchase?,Returns & Refunds,Medium
+2111,Can you help me with some information?,Product Inquiry,Low
+2112,the shipment included an incorrect item.,Product Inquiry,Medium
+2113,I need assistance with my account. I appreciate your help with this.,Account Management,High
+2114,I'm reaching out about something.,General/Irrelevant,Medium
+2115,"can you help me recover my account access? by the way, the weather is nice today.",Account Management,Medium
+2116,I'm having trouble logging into my account.,Account Management,Medium
+2117,"Hi there, just wanted to reach out. Thanks for your assistance.",General/Irrelevant,Low
+2118,how do i update my profile information?,Account Management,Low
+2119,Can you help me with some information?,General/Irrelevant,Low
+2120,can you provide more details about the product?,Product Inquiry,Medium
+2121,i'd like to update my account information.,Account Management,Low
+2122,I'd like to return this purchase for a refund.,Returns & Refunds,Medium
+2123,can you help me understand this transaction from last week?,Billing & Payments,Medium
+2124,Can you help me out? I hope you're having a good day.,General/Irrelevant,Medium
+2125,there's a discrepancy in my billing statement. looking forward to your response.,Billing & Payments,Low
+2126,The item I received wasn't what I ordered.,Returns & Refunds,Medium
+2127,the amount i was charged seems incorrect.,Billing & Payments,Medium
+2128,the service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+2129,Can I change the email associated with my account?,Account Management,Medium
+2130,How do I verify my email address?,Account Management,Medium
+2131,i have an issue with my account - something isn't working right.,Technical Support,Medium
+2132,The application keeps crashing whenever I try to use this feature.,Technical Support,Low
+2133,this product doesn't meet my expectations and i'd like to return it. looking forward to your response.,Returns & Refunds,Medium
+2134,there seems to be a problem with the recent charge on my account. thanks for your assistance.,Billing & Payments,Low
+2135,I need assistance with something.,General/Irrelevant,High
+2136,what's the difference between these product versions?,Product Inquiry,Medium
+2137,the amount i was charged seems incorrect.,Billing & Payments,Medium
+2138,I'm unable to reset my password.,Account Management,Medium
+2139,The application froze while I was using it.,Technical Support,Medium
+2140,what can you tell me about your company?,General/Irrelevant,High
+2141,i have an issue with my account.,Account Management,Medium
+2142,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+2143,I need assistance with an issue.,Billing & Payments,High
+2144,Can you help me with some information?,General/Irrelevant,Low
+2145,Do you have information about what's included in the package? This is my first time contacting support.,Product Inquiry,Low
+2146,can you help me resolve this problem?,Technical Support,Medium
+2147,the amount i was charged seems incorrect.,Billing & Payments,Medium
+2148,Can you assist me with something? I appreciate your help with this.,Returns & Refunds,Medium
+2149,just checking in to see how things are going.,General/Irrelevant,Medium
+2150,i noticed an issue with my account - the amount doesn't match what i expected.,Billing & Payments,Medium
+2151,The wrong item was sent to me.,Returns & Refunds,High
+2152,The item I received wasn't what I ordered.,Returns & Refunds,Medium
+2153,Something is wrong with what I received. I'm a longtime customer.,Returns & Refunds,Medium
+2154,I have an issue with my recent purchase.,Billing & Payments,Medium
+2155,I need assistance with an issue.,Technical Support,High
+2156,I wanted to ask about something in general. I hope you're having a good day.,General/Irrelevant,Low
+2157,what can you tell me about your company?,General/Irrelevant,Medium
+2158,"The product arrived defective and doesn't work. By the way, the weather is nice today.",General/Irrelevant,Medium
+2159,What can you tell me about your company?,General/Irrelevant,Medium
+2160,Can you help me understand this transaction from last week? I'm a longtime customer.,Billing & Payments,Medium
+2161,The application froze while I was using it.,Technical Support,Medium
+2162,The page loads extremely slowly for me.,Technical Support,Medium
+2163,I'm experiencing performance issues with the platform. This is my first time contacting support.,Technical Support,Medium
+2164,Can you help me with my account issue? Thanks for your assistance.,Account Management,Low
+2165,i need to send this back as it's not what i expected.,Returns & Refunds,High
+2166,I'd like to update my account information.,Account Management,Low
+2167,"The product arrived defective and doesn't work. By the way, the weather is nice today.",Returns & Refunds,Medium
+2168,How do I initiate a return?,Returns & Refunds,Medium
+2169,What can you tell me about your company? Looking forward to your response.,General/Irrelevant,Medium
+2170,I wanted to ask about something in general.,General/Irrelevant,Low
+2171,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+2172,There seems to be a problem with the recent charge on my account.,Billing & Payments,Medium
+2173,something's wrong with my access.,Account Management,Low
+2174,I need assistance with an issue.,Billing & Payments,High
+2175,I need to send this back as it's not what I expected.,Returns & Refunds,High
+2176,There's a problem I need help with.,Technical Support,High
+2177,This product doesn't meet my expectations and I'd like to return it.,Returns & Refunds,Medium
+2178,I was charged multiple times for the same order. I appreciate your help with this.,Billing & Payments,Medium
+2179,Is there a newer version available?,Product Inquiry,Medium
+2180,can you provide more details about the product?,Product Inquiry,Medium
+2181,The application keeps crashing whenever I try to use this feature.,Technical Support,Low
+2182,Can you provide more details about the product? Looking forward to your response.,Product Inquiry,Medium
+2183,Something is wrong with what I received. I hope you're having a good day.,Returns & Refunds,Medium
+2184,Do you have any recommendations for me?,General/Irrelevant,Medium
+2185,Can you help me recover my account access?,Account Management,Medium
+2186,what options are available for customization?,Product Inquiry,Medium
+2187,I need assistance with my account.,Account Management,High
+2188,I have a question for you. I'm a longtime customer.,General/Irrelevant,High
+2189,I need help with my purchase.,Returns & Refunds,High
+2190,I'd like to know more about your latest product offerings. I hope you're having a good day.,Product Inquiry,High
+2191,I need assistance with something.,General/Irrelevant,High
+2192,Can you assist me with something?,Returns & Refunds,Medium
+2193,can you assist me with something?,Returns & Refunds,Medium
+2194,something is wrong with what i received.,Returns & Refunds,Medium
+2195,Is this item available in different sizes or colors?,Product Inquiry,Medium
+2196,there seems to be a problem with the recent charge on my account. thanks for your assistance.,Billing & Payments,Low
+2197,What are the main features of this product?,Product Inquiry,Medium
+2198,can i change the email associated with my account?,Account Management,Medium
+2199,I have an issue with my recent purchase. I'm a longtime customer.,Billing & Payments,Medium
+2200,Can you help me with some information? Thanks for your assistance.,General/Irrelevant,Low
+2201,can you help me set up two-factor authentication?,Account Management,Low
+2202,i can't seem to access the platform from my device.,Technical Support,High
+2203,There's a problem I need help with.,Technical Support,High
+2204,I have an issue with my account - something isn't working right.,Technical Support,Medium
+2205,Something isn't functioning correctly in the application. Thanks for your assistance.,Technical Support,Low
+2206,I need to send this back as it's not what I expected.,Returns & Refunds,High
+2207,I need to send this back as it's not what I expected.,Returns & Refunds,High
+2208,the service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+2209,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+2210,I need assistance with my account.,Account Management,High
+2211,can you help me with some information? i'm a longtime customer.,General/Irrelevant,Low
+2212,I'm looking for more details about something.,Product Inquiry,Medium
+2213,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2214,I wanted to ask about something in general.,General/Irrelevant,Low
+2215,The shipment included an incorrect item.,Returns & Refunds,Medium
+2216,Can you assist me with something?,Returns & Refunds,Medium
+2217,I need help with my purchase.,Returns & Refunds,High
+2218,i have a question for you.,Technical Support,Low
+2219,this product doesn't meet my expectations and i'd like to return it.,Returns & Refunds,Medium
+2220,I need help with my purchase.,Returns & Refunds,High
+2221,How do I update my profile information? Looking forward to your response.,Account Management,Low
+2222,the application keeps crashing whenever i try to use this feature.,Technical Support,Low
+2223,I have an issue with my recent order.,Account Management,Medium
+2224,the product arrived defective and doesn't work.,Returns & Refunds,Medium
+2225,The page loads extremely slowly for me.,Technical Support,Medium
+2226,i have a general inquiry for your team. looking forward to your response.,General/Irrelevant,Low
+2227,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2228,do you have information about what's included in the package? thanks for your assistance.,Product Inquiry,Low
+2229,I'm reaching out about something.,General/Irrelevant,Medium
+2230,I forgot my login credentials.,Account Management,Medium
+2231,can you help me resolve this problem?,Technical Support,Medium
+2232,Can you help me with some information?,Product Inquiry,Low
+2233,Something is wrong with my order.,Billing & Payments,Medium
+2234,what's the difference between these product versions?,Product Inquiry,Medium
+2235,Can you help me with some information?,General/Irrelevant,High
+2236,i'm experiencing performance issues with the platform.,Technical Support,Medium
+2237,how do i change my subscription settings? looking forward to your response.,Billing & Payments,Medium
+2238,What are the main features of this product?,Product Inquiry,Medium
+2239,Can you help me with my purchase?,Billing & Payments,Medium
+2240,I'd like to provide feedback about something.,General/Irrelevant,Medium
+2241,this product doesn't meet my expectations and i'd like to return it.,Returns & Refunds,Medium
+2242,i'm looking for some general information.,General/Irrelevant,Low
+2243,Do you have any recommendations for me?,General/Irrelevant,Medium
+2244,The page loads extremely slowly for me. Thanks for your assistance.,Technical Support,Low
+2245,I forgot my login credentials.,Account Management,Medium
+2246,The amount I was charged seems incorrect.,Billing & Payments,Medium
+2247,the wrong item was sent to me.,Returns & Refunds,Medium
+2248,just checking in to see how things are going.,General/Irrelevant,Medium
+2249,How do I update my profile information?,Account Management,Low
+2250,can you provide some information about something?,General/Irrelevant,Low
+2251,I'm looking for more details about something.,Product Inquiry,Medium
+2252,i forgot my login credentials. looking forward to your response.,Account Management,Medium
+2253,I have a question that might not fit your usual categories. I'm a longtime customer.,General/Irrelevant,Low
+2254,I need assistance with my account.,Account Management,High
+2255,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2256,I need assistance with something.,General/Irrelevant,High
+2257,This product doesn't meet my expectations and I'd like to return it.,Returns & Refunds,Medium
+2258,I forgot my login credentials. I'm a longtime customer.,Account Management,Medium
+2259,can i exchange this for a different option? looking forward to your response.,Returns & Refunds,Medium
+2260,can you help me with some information?,Product Inquiry,Low
+2261,What's the difference between these product versions?,Product Inquiry,Medium
+2262,Something is wrong with my order.,Billing & Payments,Medium
+2263,What can you tell me about your company?,Billing & Payments,Medium
+2264,can you help me understand this transaction from last week?,Billing & Payments,Medium
+2265,How do I update my profile information?,Account Management,Low
+2266,What are the main features of this product?,Product Inquiry,Medium
+2267,The application keeps crashing whenever I try to use this feature. I hope you're having a good day.,Technical Support,Low
+2268,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2269,the application froze while i was using it.,Product Inquiry,Medium
+2270,I'm having trouble connecting to the service.,Technical Support,Medium
+2271,Can you help me resolve this problem? Thanks for your assistance.,Technical Support,Low
+2272,Can you tell me more about the specifications?,Product Inquiry,Medium
+2273,Can you help me out? I appreciate your help with this.,General/Irrelevant,Medium
+2274,I need help accessing my account.,Account Management,High
+2275,I received a damaged item and would like to return it.,Returns & Refunds,Medium
+2276,What options are available for customization?,Product Inquiry,Medium
+2277,I'm looking for more details about something. I hope you're having a good day.,Product Inquiry,Medium
+2278,do you have information about what's included in the package? thanks for your assistance.,Product Inquiry,Low
+2279,the shipment included an incorrect item.,Returns & Refunds,Medium
+2280,Can you assist me with something?,Returns & Refunds,Medium
+2281,is there a newer version available?,Product Inquiry,Medium
+2282,The system returned an unexpected error code. I'm a longtime customer.,Technical Support,Medium
+2283,There's a problem I need help with.,Technical Support,High
+2284,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+2285,can i get a refund for this purchase?,Returns & Refunds,Medium
+2286,There's a problem I need help with.,Technical Support,High
+2287,the wrong item was sent to me.,Returns & Refunds,Medium
+2288,"i need assistance with an issue. by the way, the weather is nice today.",Billing & Payments,High
+2289,Just checking in to see how things are going.,General/Irrelevant,Medium
+2290,What features are included in this version?,Product Inquiry,Medium
+2291,My credit card declined but I was still charged.,Billing & Payments,Medium
+2292,i'd like to update my account information.,Account Management,Low
+2293,I'm looking for some general information.,General/Irrelevant,Low
+2294,I need to send this back as it's not what I expected.,Returns & Refunds,High
+2295,The amount I was charged seems incorrect.,Billing & Payments,Medium
+2296,i'd like to know more about your latest product offerings.,Product Inquiry,High
+2297,Can you provide some information about something?,General/Irrelevant,Low
+2298,I have a question that might not fit your usual categories.,General/Irrelevant,Low
+2299,I'd like to know more about your latest product offerings.,Product Inquiry,High
+2300,can you provide some information about something?,General/Irrelevant,Low
+2301,The wrong item was sent to me. This is my first time contacting support.,Returns & Refunds,Medium
+2302,I have an issue with my account.,Account Management,Medium
+2303,i'm looking for more details about something. i'm a longtime customer.,Product Inquiry,Medium
+2304,I need assistance regarding something.,Product Inquiry,High
+2305,I didn't authorize this charge on my account.,Billing & Payments,Medium
+2306,the service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+2307,"I'm looking for more details about something. By the way, the weather is nice today.",Product Inquiry,Medium
+2308,"Hi there, just wanted to reach out. This is my first time contacting support.",General/Irrelevant,Medium
+2309,the shipment included an incorrect item.,Returns & Refunds,Medium
+2310,Do you have any recommendations for me?,General/Irrelevant,Medium
+2311,there's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2312,Can you help me with my account issue? Thanks for your assistance.,Account Management,Low
+2313,i'd like to provide feedback about something.,General/Irrelevant,Medium
+2314,I have a question that might not fit your usual categories.,General/Irrelevant,Low
+2315,"The amount I was charged seems incorrect. By the way, the weather is nice today.",Billing & Payments,Medium
+2316,Can you help me with my account issue?,Account Management,Medium
+2317,there's a problem i need help with.,Technical Support,High
+2318,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2319,Can you help me with some information? I hope you're having a good day.,General/Irrelevant,Low
+2320,i have an issue with my recent purchase. thanks for your assistance.,Billing & Payments,Low
+2321,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2322,What options are available for customization?,Product Inquiry,Medium
+2323,How do I update my profile information?,Account Management,Low
+2324,the application froze while i was using it.,Technical Support,Medium
+2325,I'm looking for more details about something.,Product Inquiry,Medium
+2326,I need assistance with my account. I appreciate your help with this.,Account Management,High
+2327,i received a damaged item and would like to return it.,Returns & Refunds,Medium
+2328,I'd like to provide feedback about something.,General/Irrelevant,Medium
+2329,I'm having trouble connecting to the service. I appreciate your help with this.,Technical Support,Medium
+2330,I didn't authorize this charge on my account.,Billing & Payments,High
+2331,Can I get a refund for this purchase? This is my first time contacting support.,Returns & Refunds,Medium
+2332,I have a question about an item.,Product Inquiry,Low
+2333,I have an issue with my account.,Account Management,Medium
+2334,I'd like to know more about your latest product offerings.,Product Inquiry,High
+2335,Something is wrong with my order.,Billing & Payments,Medium
+2336,can i get a refund for this purchase?,Returns & Refunds,Medium
+2337,Can you provide some information about something? Thanks for your assistance.,General/Irrelevant,Low
+2338,I'm getting error messages when trying to access certain features.,Technical Support,High
+2339,I need assistance with my account.,Account Management,High
+2340,can you help me understand this transaction from last week?,Billing & Payments,Medium
+2341,Can I get a refund for this purchase?,Returns & Refunds,Medium
+2342,Can you help me resolve this problem?,Technical Support,Medium
+2343,I have a question for you.,Account Management,Low
+2344,can you help me with some information?,Product Inquiry,Low
+2345,I'd like to return this item and get my money back.,Returns & Refunds,Medium
+2346,i have an issue with my recent order.,Returns & Refunds,Medium
+2347,I need assistance with an issue.,Billing & Payments,High
+2348,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+2349,I have an issue with my account - something isn't working right.,Technical Support,High
+2350,The application froze while I was using it.,Technical Support,Medium
+2351,my subscription hasn't been renewed properly.,Billing & Payments,Medium
+2352,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2353,The item I received wasn't what I ordered.,Returns & Refunds,Medium
+2354,I'm looking for some general information.,General/Irrelevant,Low
+2355,Can you provide some information about something?,General/Irrelevant,Low
+2356,Something is wrong with what I received. I hope you're having a good day.,Returns & Refunds,Medium
+2357,I need help accessing my account.,Account Management,High
+2358,Can I get a refund for this purchase? Thanks for your assistance.,Returns & Refunds,Medium
+2359,can you assist me with something?,Returns & Refunds,Medium
+2360,Is this item available in different sizes or colors?,Product Inquiry,Low
+2361,I need assistance with something.,General/Irrelevant,High
+2362,i wanted to ask about something in general. looking forward to your response.,General/Irrelevant,Low
+2363,The application froze while I was using it.,Technical Support,Medium
+2364,I have an issue with my recent order.,Returns & Refunds,Medium
+2365,Can you help me with some information? Looking forward to your response.,General/Irrelevant,Low
+2366,What's the difference between these product versions?,Product Inquiry,Medium
+2367,I'd like to return this purchase for a refund.,Returns & Refunds,High
+2368,The application froze while I was using it.,Technical Support,Low
+2369,I'm looking for some general information. I appreciate your help with this.,General/Irrelevant,Low
+2370,can you help me with some information? i hope you're having a good day.,General/Irrelevant,Low
+2371,"I noticed an issue with my account - the amount doesn't match what I expected. By the way, the weather is nice today.",Billing & Payments,Medium
+2372,The amount I was charged seems incorrect. Looking forward to your response.,Billing & Payments,Low
+2373,Can I exchange this for a different option?,Returns & Refunds,Medium
+2374,"can you process a refund for my recent purchase? by the way, the weather is nice today.",Billing & Payments,Medium
+2375,i need to change my account password. i appreciate your help with this.,Account Management,High
+2376,I received a damaged item and would like to return it.,Returns & Refunds,Medium
+2377,the amount i was charged seems incorrect. looking forward to your response.,Billing & Payments,Medium
+2378,Something isn't functioning correctly in the application.,Technical Support,Medium
+2379,I have a general inquiry for your team.,General/Irrelevant,Low
+2380,can you help me with some information?,Product Inquiry,Low
+2381,I have an issue with my recent purchase.,Billing & Payments,Medium
+2382,how do i update my profile information?,General/Irrelevant,Low
+2383,Something is wrong with what I received.,Returns & Refunds,Medium
+2384,How do I verify my email address?,Account Management,Medium
+2385,What can you tell me about your company?,General/Irrelevant,Medium
+2386,i forgot my login credentials.,Account Management,Medium
+2387,Can you provide more details about the product?,Product Inquiry,Medium
+2388,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+2389,I have a question for you.,General/Irrelevant,Low
+2390,I have an issue with my account.,Account Management,Medium
+2391,I need assistance with an issue.,Billing & Payments,High
+2392,i have a general inquiry for your team.,General/Irrelevant,Low
+2393,Can I change the email associated with my account? This is my first time contacting support.,Account Management,Medium
+2394,I need assistance with an issue.,Technical Support,High
+2395,I have an issue with my recent order. Looking forward to your response.,Returns & Refunds,Medium
+2396,I'm looking for some general information. I appreciate your help with this.,General/Irrelevant,Low
+2397,The amount I was charged seems incorrect.,Billing & Payments,Medium
+2398,I need to update my payment information.,Billing & Payments,High
+2399,can you help me with my account issue?,Account Management,Medium
+2400,How do I verify my email address?,Account Management,Medium
+2401,i'd like to update my account information.,Account Management,Medium
+2402,Can you help me recover my account access?,Account Management,Medium
+2403,can you provide some information about something?,General/Irrelevant,Low
+2404,i'd like to know more about your latest product offerings.,Product Inquiry,High
+2405,the feature you mentioned isn't working as described. i hope you're having a good day.,Technical Support,Medium
+2406,I have a question that might not fit your usual categories.,General/Irrelevant,Low
+2407,Can you help me set up two-factor authentication?,General/Irrelevant,Medium
+2408,Can you provide more details about the product?,Product Inquiry,Medium
+2409,I'd like to know more about your latest product offerings. This is my first time contacting support.,Product Inquiry,High
+2410,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2411,I noticed an issue with my account - the amount doesn't match what I expected. I hope you're having a good day.,Billing & Payments,Medium
+2412,I have an issue with my account - something isn't working right.,Technical Support,Medium
+2413,The application keeps crashing whenever I try to use this feature.,Technical Support,Low
+2414,I need to update my payment information. I'm a longtime customer.,Billing & Payments,High
+2415,i'm getting error messages when trying to access certain features.,Technical Support,Medium
+2416,Can you help me with some information?,General/Irrelevant,Low
+2417,what can you tell me about your company?,General/Irrelevant,Medium
+2418,"I'm getting error messages when trying to access certain features. By the way, the weather is nice today.",Technical Support,Medium
+2419,can you process a refund for my recent purchase?,Billing & Payments,Medium
+2420,Can you help me with some information?,Product Inquiry,Low
+2421,I can't seem to access the platform from my device. I'm a longtime customer.,Technical Support,Medium
+2422,my subscription hasn't been renewed properly.,Billing & Payments,Medium
+2423,there's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2424,How do I verify my email address? Thanks for your assistance.,Account Management,Low
+2425,the system returned an unexpected error code.,Technical Support,Medium
+2426,i need to update my payment information.,Billing & Payments,High
+2427,can you help me set up two-factor authentication?,Account Management,Medium
+2428,can you assist me with something?,Returns & Refunds,Medium
+2429,I need assistance with something. I hope you're having a good day.,General/Irrelevant,High
+2430,i need assistance with something. thanks for your assistance.,General/Irrelevant,High
+2431,Is this item still being manufactured?,Product Inquiry,Medium
+2432,My credit card declined but I was still charged.,Billing & Payments,Medium
+2433,Can you process a refund for my recent purchase? Thanks for your assistance.,Billing & Payments,Low
+2434,I'm reaching out about something.,General/Irrelevant,Medium
+2435,Is this item still being manufactured?,Product Inquiry,Medium
+2436,Can you help me with some information?,General/Irrelevant,Low
+2437,"I have a general inquiry for your team. By the way, the weather is nice today.",General/Irrelevant,Low
+2438,The amount I was charged seems incorrect.,Billing & Payments,Medium
+2439,Can you help me with some information?,Product Inquiry,Low
+2440,the amount i was charged seems incorrect.,Billing & Payments,Medium
+2441,The shipment included an incorrect item.,Returns & Refunds,Medium
+2442,There's a problem I need help with. I appreciate your help with this.,Technical Support,High
+2443,i'm experiencing performance issues with the platform. i hope you're having a good day.,Technical Support,Medium
+2444,I need assistance with something.,General/Irrelevant,High
+2445,i have a question for you.,General/Irrelevant,Low
+2446,can you help me recover my account access? i hope you're having a good day.,Account Management,Medium
+2447,there's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2448,I'm having trouble connecting to the service.,Technical Support,Medium
+2449,the feature you mentioned isn't working as described.,Technical Support,Medium
+2450,Can you help me understand this transaction from last week?,Billing & Payments,Medium
+2451,Can you help me understand this transaction from last week?,General/Irrelevant,Medium
+2452,I need to send this back as it's not what I expected.,Returns & Refunds,High
+2453,Is this item still being manufactured?,Product Inquiry,Medium
+2454,how do i update my profile information?,Account Management,Low
+2455,There's a problem I need help with.,Technical Support,High
+2456,What can you tell me about your company?,General/Irrelevant,Medium
+2457,can you help me with my account issue?,Account Management,Medium
+2458,i'm getting error messages when trying to access certain features.,Technical Support,Medium
+2459,I need assistance with my account.,Account Management,High
+2460,What's the difference between these product versions?,Product Inquiry,Medium
+2461,I need help accessing my account. I appreciate your help with this.,Account Management,High
+2462,just checking in to see how things are going.,General/Irrelevant,Medium
+2463,How do I verify my email address?,Account Management,Medium
+2464,i'm having trouble logging into my account.,Account Management,Medium
+2465,i can't seem to access the platform from my device.,Technical Support,Medium
+2466,I have an issue with my account.,Account Management,Medium
+2467,I'm reaching out about something. Looking forward to your response.,General/Irrelevant,Medium
+2468,i need assistance with an issue. i hope you're having a good day.,Technical Support,High
+2469,I'd like to return this purchase for a refund.,Returns & Refunds,Medium
+2470,I have an issue with my recent order. Thanks for your assistance.,Returns & Refunds,Low
+2471,something is wrong with my order.,Billing & Payments,Medium
+2472,I think my account has been compromised.,Account Management,Medium
+2473,My subscription hasn't been renewed properly.,Billing & Payments,Medium
+2474,What can you tell me about your company?,General/Irrelevant,Medium
+2475,I'm looking for some general information.,General/Irrelevant,Low
+2476,can you help me with some information?,General/Irrelevant,Low
+2477,This product doesn't meet my expectations and I'd like to return it.,Returns & Refunds,Medium
+2478,I have a question for you.,General/Irrelevant,Low
+2479,Can I get a refund for this purchase?,Returns & Refunds,Low
+2480,Can you help me with my purchase?,Billing & Payments,High
+2481,"i need assistance regarding something. by the way, the weather is nice today.",Product Inquiry,High
+2482,I have an issue with my recent purchase. I hope you're having a good day.,Billing & Payments,Medium
+2483,My credit card declined but I was still charged. I'm a longtime customer.,Billing & Payments,Medium
+2484,Can you tell me more about the specifications?,Product Inquiry,High
+2485,the application froze while i was using it.,Technical Support,Medium
+2486,is this item still being manufactured?,Product Inquiry,Medium
+2487,"hi there, just wanted to reach out. i hope you're having a good day.",General/Irrelevant,Medium
+2488,"the amount i was charged seems incorrect. by the way, the weather is nice today.",Billing & Payments,Medium
+2489,My subscription hasn't been renewed properly.,Billing & Payments,Medium
+2490,"The feature you mentioned isn't working as described. By the way, the weather is nice today.",Technical Support,Medium
+2491,My credit card declined but I was still charged.,Billing & Payments,Medium
+2492,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2493,I need assistance with an issue.,Billing & Payments,High
+2494,I need assistance with something.,General/Irrelevant,High
+2495,Can you help me with some information?,General/Irrelevant,Low
+2496,The system returned an unexpected error code.,Technical Support,Medium
+2497,I need to send this back as it's not what I expected.,Returns & Refunds,Low
+2498,Do you have any recommendations for me?,Returns & Refunds,Medium
+2499,Can you help me recover my account access? This is my first time contacting support.,Account Management,Medium
+2500,How do I verify my email address?,Account Management,Medium
+2501,I wanted to ask about something in general.,General/Irrelevant,Low
+2502,I'd like to update my account information.,Account Management,Low
+2503,i'm having trouble logging into my account. i'm a longtime customer.,Account Management,Medium
+2504,I need assistance regarding something. Looking forward to your response.,Product Inquiry,High
+2505,"hi there, just wanted to reach out. looking forward to your response.",General/Irrelevant,Medium
+2506,I'd like to provide feedback about something. This is my first time contacting support.,Product Inquiry,Medium
+2507,i have a question for you. i appreciate your help with this.,General/Irrelevant,Low
+2508,Can you help me with some information?,General/Irrelevant,Low
+2509,The service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+2510,My credit card declined but I was still charged. This is my first time contacting support.,Billing & Payments,Medium
+2511,I have an issue with my account. I appreciate your help with this.,Account Management,Medium
+2512,I'm unable to reset my password.,Account Management,Medium
+2513,this product doesn't meet my expectations and i'd like to return it.,Returns & Refunds,Medium
+2514,How do I initiate a return?,Returns & Refunds,Medium
+2515,What features are included in this version?,Product Inquiry,High
+2516,There seems to be a problem with the recent charge on my account.,Billing & Payments,Medium
+2517,I'd like to return this item and get my money back. I hope you're having a good day.,Returns & Refunds,Medium
+2518,I wanted to ask about something in general. I'm a longtime customer.,General/Irrelevant,Low
+2519,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2520,I'm having trouble connecting to the service.,Technical Support,Medium
+2521,can you help me resolve this problem?,Technical Support,Medium
+2522,"the system returned an unexpected error code. by the way, the weather is nice today.",Technical Support,Medium
+2523,there's a discrepancy in my billing statement.,Billing & Payments,Medium
+2524,do you have any recommendations for me? i hope you're having a good day.,General/Irrelevant,Medium
+2525,i'm looking for some general information.,General/Irrelevant,Low
+2526,My credit card declined but I was still charged. I'm a longtime customer.,Billing & Payments,Medium
+2527,how do i initiate a return? this is my first time contacting support.,Returns & Refunds,Medium
+2528,i can't seem to access the platform from my device.,Technical Support,Medium
+2529,Can you process a refund for my recent purchase?,Billing & Payments,Medium
+2530,what features are included in this version? i'm a longtime customer.,Product Inquiry,Medium
+2531,I'd like to return this purchase for a refund.,Returns & Refunds,Medium
+2532,"i have a question about an item. by the way, the weather is nice today.",Product Inquiry,Low
+2533,can you help me out?,General/Irrelevant,Medium
+2534,Something is wrong with my order.,Billing & Payments,Medium
+2535,The page loads extremely slowly for me.,Technical Support,Medium
+2536,Just checking in to see how things are going.,General/Irrelevant,Medium
+2537,is this item available in different sizes or colors? i'm a longtime customer.,Product Inquiry,Medium
+2538,the page loads extremely slowly for me.,Account Management,Medium
+2539,What options are available for customization?,Product Inquiry,Medium
+2540,I'm having trouble connecting to the service. Thanks for your assistance.,Technical Support,Low
+2541,can you help me recover my account access?,Account Management,Medium
+2542,Is there a newer version available?,Product Inquiry,Medium
+2543,I can't seem to access the platform from my device.,General/Irrelevant,Medium
+2544,I have an issue with my account - something isn't working right.,Technical Support,Medium
+2545,Can you help me with my purchase?,Billing & Payments,Medium
+2546,i have an issue with my account.,Account Management,Medium
+2547,I was charged multiple times for the same order.,Billing & Payments,Low
+2548,I'm unable to reset my password. I'm a longtime customer.,Account Management,Medium
+2549,The application froze while I was using it. I appreciate your help with this.,Technical Support,Medium
+2550,"something is wrong with my order. by the way, the weather is nice today.",Billing & Payments,Medium
+2551,the page loads extremely slowly for me.,Technical Support,Medium
+2552,What are the main features of this product?,Product Inquiry,Medium
+2553,Can you help me understand this transaction from last week?,Billing & Payments,Medium
+2554,is this item still being manufactured? i hope you're having a good day.,Product Inquiry,Medium
+2555,what options are available for customization?,Product Inquiry,Medium
+2556,I'm looking for some general information.,General/Irrelevant,Low
+2557,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+2558,I'd like to update my account information.,Account Management,Low
+2559,"the system returned an unexpected error code. by the way, the weather is nice today.",Technical Support,Medium
+2560,the application froze while i was using it.,Product Inquiry,Medium
+2561,Something's wrong with my access.,Account Management,Medium
+2562,I need help with my purchase.,Returns & Refunds,High
+2563,I received a damaged item and would like to return it.,Returns & Refunds,Medium
+2564,Can you help me with my purchase?,Billing & Payments,Medium
+2565,I can't seem to access the platform from my device.,Technical Support,Medium
+2566,I have an issue with my recent purchase.,Billing & Payments,Medium
+2567,i'm getting error messages when trying to access certain features.,Technical Support,Medium
+2568,can you tell me more about the specifications?,Product Inquiry,Medium
+2569,"I need help with my purchase. By the way, the weather is nice today.",Returns & Refunds,High
+2570,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+2571,how do i verify my email address?,Account Management,Medium
+2572,What accessories are compatible with this product?,Product Inquiry,Medium
+2573,can i get a refund for this purchase?,Returns & Refunds,Medium
+2574,What features are included in this version?,Product Inquiry,Medium
+2575,i have an issue with my recent purchase. i appreciate your help with this.,Billing & Payments,Medium
+2576,i need help accessing my account.,Account Management,High
+2577,How do I initiate a return?,Returns & Refunds,Medium
+2578,How do I update my profile information?,Account Management,Low
+2579,Do you have information about what's included in the package? Thanks for your assistance.,Product Inquiry,Medium
+2580,The shipment included an incorrect item.,Returns & Refunds,Medium
+2581,Do you have any recommendations for me?,General/Irrelevant,Medium
+2582,I have a question about an item.,Product Inquiry,Medium
+2583,i have a question about an item.,Product Inquiry,Low
+2584,the application keeps crashing whenever i try to use this feature.,Technical Support,Low
+2585,something's wrong with my access.,Account Management,Medium
+2586,something is wrong with what i received. looking forward to your response.,Returns & Refunds,Medium
+2587,I need assistance with my account. This is my first time contacting support.,Account Management,High
+2588,How do I change my subscription settings?,Billing & Payments,Medium
+2589,How do I verify my email address?,Account Management,Medium
+2590,the wrong item was sent to me.,Returns & Refunds,Medium
+2591,The shipment included an incorrect item.,Returns & Refunds,Medium
+2592,I forgot my login credentials.,Account Management,Medium
+2593,How do I update my profile information?,Account Management,Low
+2594,Can you tell me more about the specifications?,Product Inquiry,Medium
+2595,There seems to be a problem with the recent charge on my account.,Billing & Payments,Medium
+2596,can you provide more details about the product? i appreciate your help with this.,Product Inquiry,Medium
+2597,something is wrong with my order.,Billing & Payments,Medium
+2598,I have a question for you.,General/Irrelevant,Low
+2599,Can I get a refund for this purchase?,Returns & Refunds,Medium
+2600,i'm reaching out about something.,General/Irrelevant,Medium
+2601,Something is wrong with my order.,Billing & Payments,Medium
+2602,the product arrived defective and doesn't work.,Returns & Refunds,Medium
+2603,Can you provide more details about the product?,Product Inquiry,Medium
+2604,Something is wrong with what I received.,Returns & Refunds,Medium
+2605,can you help me set up two-factor authentication? thanks for your assistance.,Account Management,Low
+2606,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+2607,I'm looking for some general information. I hope you're having a good day.,General/Irrelevant,Low
+2608,I have an issue with my account.,Account Management,Medium
+2609,The wrong item was sent to me.,Returns & Refunds,Medium
+2610,I have a general inquiry for your team.,General/Irrelevant,Low
+2611,I need to update my payment information. I hope you're having a good day.,Billing & Payments,High
+2612,Something is wrong with what I received.,Returns & Refunds,High
+2613,I have an issue with my recent order.,Returns & Refunds,Medium
+2614,Can I exchange this for a different option? Thanks for your assistance.,Returns & Refunds,Low
+2615,what accessories are compatible with this product? this is my first time contacting support.,Product Inquiry,Medium
+2616,"I need help accessing my account. By the way, the weather is nice today.",Account Management,High
+2617,There seems to be a problem with the recent charge on my account.,Billing & Payments,Medium
+2618,I'd like to know more about your latest product offerings.,Account Management,High
+2619,Do you have any recommendations for me?,General/Irrelevant,Medium
+2620,I'd like to update my account information.,Account Management,Low
+2621,The service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+2622,what are the main features of this product?,Product Inquiry,Medium
+2623,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+2624,I was charged multiple times for the same order.,Billing & Payments,Medium
+2625,Can you help me out?,General/Irrelevant,Medium
+2626,I can't seem to access the platform from my device.,Technical Support,Medium
+2627,Can you help me with some information?,Product Inquiry,Low
+2628,The application froze while I was using it. I hope you're having a good day.,Technical Support,Medium
+2629,i need to send this back as it's not what i expected.,Returns & Refunds,High
+2630,My subscription hasn't been renewed properly.,Product Inquiry,Medium
+2631,This product doesn't meet my expectations and I'd like to return it. Thanks for your assistance.,Returns & Refunds,Low
+2632,Can I change the email associated with my account?,Account Management,Medium
+2633,something's wrong with my access.,Account Management,Medium
+2634,something isn't functioning correctly in the application.,Technical Support,Medium
+2635,Can you provide some information about something? I hope you're having a good day.,General/Irrelevant,Low
+2636,i forgot my login credentials. thanks for your assistance.,Account Management,Low
+2637,Can you help me understand this transaction from last week? I'm a longtime customer.,Billing & Payments,Medium
+2638,The system returned an unexpected error code. This is my first time contacting support.,Technical Support,Medium
+2639,Can you tell me more about the specifications?,Product Inquiry,Medium
+2640,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2641,I need help accessing my account. I hope you're having a good day.,Account Management,High
+2642,Do you have any recommendations for me?,General/Irrelevant,Medium
+2643,I'm reaching out about something.,General/Irrelevant,Medium
+2644,The item I received wasn't what I ordered.,Returns & Refunds,Medium
+2645,The application keeps crashing whenever I try to use this feature.,Technical Support,Low
+2646,i'm having trouble logging into my account. i hope you're having a good day.,Billing & Payments,Medium
+2647,What features are included in this version?,Product Inquiry,Medium
+2648,Can you tell me more about the specifications?,Product Inquiry,Medium
+2649,I need help accessing my account.,Account Management,High
+2650,I'm looking for some general information.,General/Irrelevant,Low
+2651,is there a newer version available?,Product Inquiry,Medium
+2652,I have an issue with my account - something isn't working right.,Technical Support,Medium
+2653,The application keeps crashing whenever I try to use this feature.,Technical Support,Low
+2654,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+2655,I'd like to provide feedback about something.,Product Inquiry,Medium
+2656,Do you have information about what's included in the package?,Product Inquiry,Low
+2657,"hi there, just wanted to reach out.",General/Irrelevant,Medium
+2658,do you have information about what's included in the package? i'm a longtime customer.,Account Management,Low
+2659,I was charged multiple times for the same order.,Billing & Payments,Low
+2660,I'm unable to reset my password. Looking forward to your response.,Account Management,Medium
+2661,I'd like to return this purchase for a refund.,Returns & Refunds,Medium
+2662,I need help accessing my account.,Account Management,High
+2663,How do I verify my email address?,Account Management,Medium
+2664,The system returned an unexpected error code.,Technical Support,Medium
+2665,Can you assist me with something?,Returns & Refunds,Medium
+2666,How do I verify my email address? I hope you're having a good day.,Account Management,Medium
+2667,do you have information about what's included in the package?,Product Inquiry,Low
+2668,How do I verify my email address? I'm a longtime customer.,Account Management,Medium
+2669,the service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+2670,can you help me resolve this problem? thanks for your assistance.,Technical Support,Low
+2671,I need help with my purchase.,Returns & Refunds,High
+2672,i have an issue with my account. i'm a longtime customer.,Account Management,Medium
+2673,"I wanted to ask about something in general. By the way, the weather is nice today.",General/Irrelevant,Low
+2674,what's the difference between these product versions?,Product Inquiry,Medium
+2675,I need help with my purchase.,Returns & Refunds,High
+2676,I'd like to return this purchase for a refund. This is my first time contacting support.,General/Irrelevant,Medium
+2677,this product doesn't meet my expectations and i'd like to return it.,Returns & Refunds,Medium
+2678,What features are included in this version?,Product Inquiry,Medium
+2679,I was charged multiple times for the same order.,Billing & Payments,Medium
+2680,How do I verify my email address?,Account Management,Medium
+2681,can you help me with some information?,Product Inquiry,Low
+2682,can you process a refund for my recent purchase?,Billing & Payments,Medium
+2683,I'd like to update my account information.,Account Management,Low
+2684,do you have information about what's included in the package?,Product Inquiry,Low
+2685,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+2686,I'm having trouble logging into my account.,Account Management,Medium
+2687,How do I initiate a return?,Billing & Payments,Medium
+2688,The page loads extremely slowly for me.,Technical Support,Medium
+2689,How do I update my profile information?,Product Inquiry,Low
+2690,Can you help me with some information?,General/Irrelevant,Low
+2691,can i exchange this for a different option?,Returns & Refunds,Medium
+2692,I have a question that might not fit your usual categories.,General/Irrelevant,Low
+2693,how do i initiate a return? i hope you're having a good day.,Returns & Refunds,Medium
+2694,I need assistance regarding something.,Product Inquiry,High
+2695,I need assistance with an issue.,Technical Support,High
+2696,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+2697,can i change the email associated with my account? thanks for your assistance.,Account Management,Low
+2698,I'm interested in learning more about your services.,General/Irrelevant,Medium
+2699,I have an issue with my recent order.,Returns & Refunds,Medium
+2700,the service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+2701,How do I verify my email address?,Account Management,Medium
+2702,There seems to be a problem with the recent charge on my account. I'm a longtime customer.,Billing & Payments,Medium
+2703,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+2704,i need to change my account password.,Account Management,High
+2705,I was charged multiple times for the same order. I hope you're having a good day.,Billing & Payments,Medium
+2706,Something is wrong with my order.,Billing & Payments,Medium
+2707,"Something is wrong with my order. By the way, the weather is nice today.",Billing & Payments,Medium
+2708,Can you assist me with something? I hope you're having a good day.,Returns & Refunds,Medium
+2709,Can you help me out?,General/Irrelevant,Medium
+2710,i need assistance with my account.,Technical Support,High
+2711,i think my account has been compromised. i appreciate your help with this.,Account Management,Medium
+2712,The page loads extremely slowly for me.,Account Management,Medium
+2713,I'm having trouble logging into my account.,Account Management,Medium
+2714,Something is wrong with my order.,Billing & Payments,Medium
+2715,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+2716,How do I change my subscription settings?,Billing & Payments,Medium
+2717,i need assistance with something.,General/Irrelevant,High
+2718,Can I exchange this for a different option? Thanks for your assistance.,Returns & Refunds,Low
+2719,Can I get a refund for this purchase?,Returns & Refunds,Medium
+2720,i need help accessing my account.,Account Management,High
+2721,My subscription hasn't been renewed properly.,Billing & Payments,Medium
+2722,"Can you help me with my account issue? By the way, the weather is nice today.",Account Management,Medium
+2723,Can you help me set up two-factor authentication?,Account Management,Medium
+2724,There seems to be a problem with the recent charge on my account. Thanks for your assistance.,Billing & Payments,Low
+2725,I have an issue with my recent purchase.,Billing & Payments,Medium
+2726,The application froze while I was using it.,Technical Support,Medium
+2727,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2728,Something is wrong with my order.,Billing & Payments,Medium
+2729,"do you have any recommendations for me? by the way, the weather is nice today.",General/Irrelevant,Medium
+2730,I need to change my account password.,Account Management,High
+2731,I need assistance with an issue.,Technical Support,High
+2732,Can you help me with my purchase? This is my first time contacting support.,Billing & Payments,Medium
+2733,I have an issue with my account - something isn't working right.,Technical Support,Medium
+2734,Can I change the email associated with my account?,Account Management,Medium
+2735,I have an issue with my recent purchase.,Billing & Payments,Medium
+2736,I have a question for you.,General/Irrelevant,Low
+2737,i'd like to return this purchase for a refund.,Returns & Refunds,Medium
+2738,the application keeps crashing whenever i try to use this feature.,Technical Support,Low
+2739,Can I exchange this for a different option?,Returns & Refunds,Medium
+2740,I received a damaged item and would like to return it.,Returns & Refunds,Medium
+2741,How do I change my subscription settings?,Billing & Payments,Medium
+2742,do you have information about what's included in the package?,Product Inquiry,Low
+2743,what accessories are compatible with this product? i hope you're having a good day.,Product Inquiry,Medium
+2744,The wrong item was sent to me.,Returns & Refunds,Medium
+2745,"Can you help me out? By the way, the weather is nice today.",General/Irrelevant,High
+2746,Can you provide some information about something?,General/Irrelevant,Low
+2747,i have a general inquiry for your team.,General/Irrelevant,Low
+2748,My credit card declined but I was still charged.,Billing & Payments,High
+2749,Is this item still being manufactured?,Product Inquiry,Medium
+2750,I have an issue with my account.,Account Management,Medium
+2751,i received a damaged item and would like to return it.,Returns & Refunds,Medium
+2752,I forgot my login credentials.,Account Management,Medium
+2753,There's a discrepancy in my billing statement. This is my first time contacting support.,Billing & Payments,Medium
+2754,Is there a newer version available? Looking forward to your response.,Product Inquiry,Medium
+2755,What features are included in this version?,Product Inquiry,Medium
+2756,the application froze while i was using it.,Technical Support,Medium
+2757,What features are included in this version?,Technical Support,Medium
+2758,Something isn't functioning correctly in the application. I hope you're having a good day.,Technical Support,Medium
+2759,I need to change my account password. I hope you're having a good day.,Account Management,High
+2760,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2761,I'm having trouble connecting to the service.,Technical Support,Medium
+2762,The wrong item was sent to me.,Returns & Refunds,Medium
+2763,The product arrived defective and doesn't work. Looking forward to your response.,Returns & Refunds,Medium
+2764,I can't seem to access the platform from my device.,Technical Support,Medium
+2765,Can you help me resolve this problem?,Technical Support,Medium
+2766,I noticed an issue with my account - the amount doesn't match what I expected.,Billing & Payments,High
+2767,do you have any recommendations for me?,General/Irrelevant,Medium
+2768,I think my account has been compromised.,Account Management,Medium
+2769,I have a question about an item.,Product Inquiry,Low
+2770,I have an issue with my recent order. Looking forward to your response.,Returns & Refunds,Medium
+2771,I didn't authorize this charge on my account. I hope you're having a good day.,Billing & Payments,Medium
+2772,i'm reaching out about something. i appreciate your help with this.,Account Management,Medium
+2773,i need to update my payment information. i'm a longtime customer.,Billing & Payments,High
+2774,i need to change my account password.,Account Management,High
+2775,The amount I was charged seems incorrect.,Billing & Payments,Medium
+2776,can you assist me with something?,Returns & Refunds,Medium
+2777,Is this item available in different sizes or colors?,Product Inquiry,Medium
+2778,do you have information about what's included in the package?,Product Inquiry,Low
+2779,I'm getting error messages when trying to access certain features. I hope you're having a good day.,Technical Support,Medium
+2780,I was charged multiple times for the same order.,Billing & Payments,Medium
+2781,can you help me with some information? looking forward to your response.,Product Inquiry,Low
+2782,what features are included in this version? i appreciate your help with this.,Product Inquiry,Medium
+2783,what options are available for customization?,Product Inquiry,Medium
+2784,I'd like to return this item and get my money back.,Returns & Refunds,Medium
+2785,What options are available for customization?,Product Inquiry,Medium
+2786,i'm unable to reset my password.,Account Management,Medium
+2787,I'm looking for more details about something.,Product Inquiry,Medium
+2788,the page loads extremely slowly for me.,Technical Support,Medium
+2789,I'm looking for more details about something.,Product Inquiry,Medium
+2790,I'd like to know more about your latest product offerings.,Product Inquiry,High
+2791,I have an issue with my account.,Account Management,Medium
+2792,Something is wrong with what I received.,Returns & Refunds,Medium
+2793,something isn't functioning correctly in the application.,Technical Support,Medium
+2794,I'm having trouble connecting to the service.,Technical Support,Medium
+2795,Can you help me understand this transaction from last week?,Billing & Payments,Medium
+2796,I'd like to return this purchase for a refund.,Returns & Refunds,Medium
+2797,there's a bug in the system that prevents me from completing my task. i appreciate your help with this.,Technical Support,Medium
+2798,Can I change the email associated with my account? Thanks for your assistance.,Account Management,Low
+2799,can you help me out? thanks for your assistance.,Account Management,Low
+2800,I forgot my login credentials.,Account Management,Medium
+2801,Can you help me recover my account access?,Account Management,Medium
+2802,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2803,i noticed an issue with my account - the amount doesn't match what i expected.,Billing & Payments,Medium
+2804,i'm experiencing performance issues with the platform.,Technical Support,High
+2805,This product doesn't meet my expectations and I'd like to return it.,Returns & Refunds,Medium
+2806,i need help accessing my account. looking forward to your response.,Account Management,High
+2807,I need assistance with something.,General/Irrelevant,High
+2808,i have a question about an item.,Product Inquiry,Low
+2809,can you help me resolve this problem?,Product Inquiry,Medium
+2810,something's wrong with my access. looking forward to your response.,Account Management,Medium
+2811,Can you assist me with something?,Returns & Refunds,Medium
+2812,is this item available in different sizes or colors? i'm a longtime customer.,Product Inquiry,Medium
+2813,I'm having trouble logging into my account.,Account Management,Medium
+2814,my subscription hasn't been renewed properly.,Account Management,Medium
+2815,I have an issue with my account. I'm a longtime customer.,Account Management,Medium
+2816,i was charged multiple times for the same order. thanks for your assistance.,Billing & Payments,Low
+2817,Can you help me set up two-factor authentication?,Account Management,Medium
+2818,the item i received wasn't what i ordered.,Returns & Refunds,Medium
+2819,Is this item still being manufactured?,Product Inquiry,Medium
+2820,I need assistance with an issue.,Technical Support,High
+2821,i have a question for you.,General/Irrelevant,Low
+2822,can you help me with my purchase?,Billing & Payments,Medium
+2823,I need to send this back as it's not what I expected.,Returns & Refunds,High
+2824,The application keeps crashing whenever I try to use this feature. I appreciate your help with this.,Technical Support,Low
+2825,I'd like to know more about your latest product offerings.,Product Inquiry,High
+2826,i'm unable to reset my password.,Account Management,Medium
+2827,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2828,what options are available for customization?,Product Inquiry,Medium
+2829,the service seems to be down or experiencing technical difficulties.,Technical Support,Medium
+2830,i have a question about an item.,Product Inquiry,Low
+2831,I need to send this back as it's not what I expected.,Returns & Refunds,High
+2832,There's a problem I need help with.,Technical Support,High
+2833,I'm reaching out about something.,General/Irrelevant,Medium
+2834,How do I verify my email address? I hope you're having a good day.,Account Management,Medium
+2835,is this item available in different sizes or colors? i appreciate your help with this.,Product Inquiry,Medium
+2836,I need assistance with my account.,Account Management,Medium
+2837,Can you help me with my purchase? This is my first time contacting support.,Billing & Payments,Medium
+2838,is this item still being manufactured? i hope you're having a good day.,Product Inquiry,Medium
+2839,I received a damaged item and would like to return it. This is my first time contacting support.,Returns & Refunds,Medium
+2840,Is this item available in different sizes or colors?,Product Inquiry,Medium
+2841,I need help accessing my account.,Account Management,High
+2842,I need help with my purchase. I appreciate your help with this.,Returns & Refunds,High
+2843,Something is wrong with my order.,Billing & Payments,Medium
+2844,Can you help me with my purchase?,Billing & Payments,Low
+2845,i noticed an issue with my account - the amount doesn't match what i expected.,Billing & Payments,Medium
+2846,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+2847,"hi there, just wanted to reach out.",Returns & Refunds,Medium
+2848,I'm looking for more details about something. I hope you're having a good day.,Product Inquiry,Medium
+2849,I'd like to know more about your latest product offerings.,Product Inquiry,High
+2850,i'm having trouble connecting to the service. i hope you're having a good day.,Technical Support,Medium
+2851,"I'd like to update my account information. By the way, the weather is nice today.",Account Management,Low
+2852,i wanted to ask about something in general.,General/Irrelevant,Low
+2853,can i exchange this for a different option? i'm a longtime customer.,Returns & Refunds,Medium
+2854,i'd like to update my account information.,Account Management,Medium
+2855,Is this item available in different sizes or colors?,Product Inquiry,Medium
+2856,do you have any recommendations for me?,General/Irrelevant,Medium
+2857,I need assistance with an issue.,Billing & Payments,High
+2858,what accessories are compatible with this product?,Product Inquiry,Medium
+2859,I have an issue with my account. Looking forward to your response.,Account Management,Medium
+2860,Can you tell me more about the specifications?,Product Inquiry,Medium
+2861,Can I get a refund for this purchase?,Returns & Refunds,Medium
+2862,Is there a newer version available?,Product Inquiry,Medium
+2863,Is there a newer version available? I hope you're having a good day.,Product Inquiry,Medium
+2864,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+2865,"Do you have information about what's included in the package? By the way, the weather is nice today.",Product Inquiry,Low
+2866,"Hi there, just wanted to reach out.",General/Irrelevant,Medium
+2867,I have a general inquiry for your team.,General/Irrelevant,Low
+2868,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2869,i'm experiencing performance issues with the platform.,Technical Support,Medium
+2870,I didn't authorize this charge on my account.,Billing & Payments,Medium
+2871,What's the difference between these product versions? I'm a longtime customer.,Product Inquiry,Low
+2872,Can you help me understand this transaction from last week? Looking forward to your response.,Billing & Payments,Medium
+2873,Something is wrong with my order.,Billing & Payments,Medium
+2874,how do i verify my email address? this is my first time contacting support.,Account Management,Medium
+2875,How do I update my profile information?,Account Management,Low
+2876,what can you tell me about your company? looking forward to your response.,General/Irrelevant,Medium
+2877,The wrong item was sent to me.,Returns & Refunds,Medium
+2878,Can you process a refund for my recent purchase?,Billing & Payments,Medium
+2879,i need assistance with an issue. this is my first time contacting support.,Technical Support,High
+2880,Can you tell me more about the specifications?,Returns & Refunds,Medium
+2881,Can I exchange this for a different option? I hope you're having a good day.,Returns & Refunds,Medium
+2882,the page loads extremely slowly for me.,Technical Support,Medium
+2883,The feature you mentioned isn't working as described.,Technical Support,Medium
+2884,I'd like to return this purchase for a refund. Looking forward to your response.,Returns & Refunds,Medium
+2885,can you tell me more about the specifications?,Product Inquiry,Medium
+2886,I was charged multiple times for the same order.,Billing & Payments,Medium
+2887,I have an issue with my account - something isn't working right.,Technical Support,Medium
+2888,The shipment included an incorrect item. I appreciate your help with this.,Returns & Refunds,Medium
+2889,i'm having trouble connecting to the service.,Technical Support,Medium
+2890,I have a question for you. Looking forward to your response.,General/Irrelevant,Low
+2891,Can I get a refund for this purchase?,Returns & Refunds,Medium
+2892,I need to send this back as it's not what I expected.,Returns & Refunds,High
+2893,Can I exchange this for a different option? Looking forward to your response.,Returns & Refunds,Medium
+2894,i'd like to return this item and get my money back.,Returns & Refunds,Medium
+2895,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2896,I'm having trouble logging into my account.,Account Management,Medium
+2897,I have an issue with my account.,Account Management,Medium
+2898,I was charged multiple times for the same order.,Billing & Payments,Medium
+2899,The page loads extremely slowly for me.,Technical Support,Medium
+2900,I need assistance with something.,General/Irrelevant,High
+2901,I think my account has been compromised.,Account Management,Medium
+2902,How do I verify my email address?,Account Management,Medium
+2903,The page loads extremely slowly for me.,Technical Support,Medium
+2904,"i have a question about an item. by the way, the weather is nice today.",Product Inquiry,Low
+2905,I need assistance with my account.,Account Management,High
+2906,There's a bug in the system that prevents me from completing my task. I appreciate your help with this.,Technical Support,Medium
+2907,what accessories are compatible with this product?,Product Inquiry,Medium
+2908,there's a problem i need help with.,Technical Support,High
+2909,How do I change my subscription settings? This is my first time contacting support.,Billing & Payments,Medium
+2910,The page loads extremely slowly for me.,Technical Support,Medium
+2911,I have a question about an item.,Product Inquiry,Low
+2912,"i have an issue with my account - something isn't working right. by the way, the weather is nice today.",Technical Support,Medium
+2913,The application froze while I was using it.,Technical Support,Medium
+2914,what's the difference between these product versions?,Product Inquiry,Medium
+2915,i wanted to ask about something in general.,Technical Support,Low
+2916,what options are available for customization?,Product Inquiry,Medium
+2917,something is wrong with my order.,Billing & Payments,Medium
+2918,I'm experiencing performance issues with the platform.,Technical Support,Medium
+2919,My subscription hasn't been renewed properly.,Billing & Payments,Medium
+2920,I need assistance with an issue. This is my first time contacting support.,Technical Support,Medium
+2921,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2922,"I'm having trouble logging into my account. By the way, the weather is nice today.",Account Management,Medium
+2923,Can you help me with some information?,Product Inquiry,Low
+2924,I need to update my payment information.,Billing & Payments,High
+2925,The product arrived defective and doesn't work.,Returns & Refunds,Medium
+2926,i noticed an issue with my account - the amount doesn't match what i expected.,Billing & Payments,Medium
+2927,i'm looking for more details about something.,Product Inquiry,Medium
+2928,Something isn't functioning correctly in the application. I appreciate your help with this.,Technical Support,Medium
+2929,how do i verify my email address?,General/Irrelevant,Medium
+2930,can you help me with my purchase?,Billing & Payments,Medium
+2931,I can't seem to access the platform from my device. Thanks for your assistance.,Technical Support,Low
+2932,I'd like to return this purchase for a refund.,Returns & Refunds,Medium
+2933,how do i change my subscription settings? thanks for your assistance.,Product Inquiry,Low
+2934,i'd like to update my account information.,Account Management,Low
+2935,can i change the email associated with my account?,Account Management,Medium
+2936,i need to send this back as it's not what i expected. i'm a longtime customer.,Returns & Refunds,High
+2937,Can I exchange this for a different option?,Returns & Refunds,Medium
+2938,i have an issue with my account.,Account Management,Medium
+2939,The wrong item was sent to me.,Returns & Refunds,Medium
+2940,I'm looking for more details about something.,Product Inquiry,Medium
+2941,I need to update my payment information. I appreciate your help with this.,Billing & Payments,High
+2942,i have a question that might not fit your usual categories. thanks for your assistance.,General/Irrelevant,Low
+2943,How do I update my profile information? I appreciate your help with this.,Account Management,Low
+2944,Can you help me set up two-factor authentication?,Account Management,Medium
+2945,The service seems to be down or experiencing technical difficulties. This is my first time contacting support.,Technical Support,Medium
+2946,can you tell me more about the specifications?,Product Inquiry,Medium
+2947,I was charged multiple times for the same order.,Billing & Payments,Medium
+2948,i wanted to ask about something in general.,General/Irrelevant,Low
+2949,i have a question for you.,General/Irrelevant,Low
+2950,I can't seem to access the platform from my device.,Technical Support,Medium
+2951,Is this item still being manufactured? I appreciate your help with this.,Product Inquiry,Medium
+2952,how do i update my profile information?,Account Management,Low
+2953,Can you provide more details about the product? I hope you're having a good day.,Product Inquiry,Medium
+2954,There's a discrepancy in my billing statement.,Billing & Payments,Medium
+2955,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+2956,can you provide some information about something?,Returns & Refunds,Low
+2957,i can't seem to access the platform from my device. this is my first time contacting support.,Technical Support,Medium
+2958,can i exchange this for a different option?,Returns & Refunds,Medium
+2959,How do I update my profile information?,Account Management,Low
+2960,I'd like to return this item and get my money back. Looking forward to your response.,Returns & Refunds,Medium
+2961,I'm having trouble connecting to the service.,Technical Support,Medium
+2962,Something's wrong with my access.,Account Management,Medium
+2963,i'm looking for some general information.,General/Irrelevant,Low
+2964,There's a bug in the system that prevents me from completing my task.,Technical Support,Medium
+2965,"hi there, just wanted to reach out.",General/Irrelevant,Medium
+2966,Can you provide more details about the product?,Product Inquiry,Medium
+2967,Can you help me with some information?,General/Irrelevant,Low
+2968,the page loads extremely slowly for me. thanks for your assistance.,Technical Support,Low
+2969,can you help me recover my account access?,Account Management,Medium
+2970,I need assistance with an issue.,Billing & Payments,High
+2971,I have a question that might not fit your usual categories. I appreciate your help with this.,General/Irrelevant,Low
+2972,I have a question about an item.,Product Inquiry,High
+2973,this product doesn't meet my expectations and i'd like to return it.,Returns & Refunds,Medium
+2974,Can you provide more details about the product?,Product Inquiry,High
+2975,There's a bug in the system that prevents me from completing my task. I appreciate your help with this.,Technical Support,Medium
+2976,"hi there, just wanted to reach out.",General/Irrelevant,Medium
+2977,I'm getting error messages when trying to access certain features.,Technical Support,Medium
+2978,Something isn't functioning correctly in the application.,Technical Support,Medium
+2979,i received a damaged item and would like to return it. i appreciate your help with this.,Returns & Refunds,Medium
+2980,There seems to be a problem with the recent charge on my account. I hope you're having a good day.,Account Management,Medium
+2981,The application keeps crashing whenever I try to use this feature. I appreciate your help with this.,Technical Support,Low
+2982,i have an issue with my recent order.,Returns & Refunds,Medium
+2983,My subscription hasn't been renewed properly. This is my first time contacting support.,Billing & Payments,Medium
+2984,The application keeps crashing whenever I try to use this feature.,Technical Support,Low
+2985,Can you help me with some information? I hope you're having a good day.,General/Irrelevant,Low
+2986,can you tell me more about the specifications?,Product Inquiry,Medium
+2987,Can you assist me with something?,Returns & Refunds,Low
+2988,The application keeps crashing whenever I try to use this feature.,Technical Support,Low
+2989,My subscription hasn't been renewed properly.,Billing & Payments,Medium
+2990,i have a question that might not fit your usual categories.,General/Irrelevant,Medium
+2991,I need to send this back as it's not what I expected.,Returns & Refunds,High
+2992,What features are included in this version?,Product Inquiry,Medium
+2993,i wanted to ask about something in general.,General/Irrelevant,Low
+2994,i need assistance with my account. i hope you're having a good day.,Account Management,High
+2995,do you have information about what's included in the package?,Product Inquiry,Low
+2996,I need help accessing my account.,Account Management,High
+2997,I can't seem to access the platform from my device. Looking forward to your response.,Technical Support,Medium
+2998,The feature you mentioned isn't working as described.,Technical Support,Medium
+2999,Do you have any recommendations for me?,General/Irrelevant,Medium
