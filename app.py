@@ -7,7 +7,7 @@ import numpy as np
 
 # Page Config
 st.set_page_config(
-    page_title="SupportFlow AI",
+    page_title="tickroutex AI",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -147,7 +147,7 @@ def main():
     # Apply dark theme
     apply_dark_theme()
     
-    st.title("🤖 SupportFlow: AI Ticket Classification & Routing")
+    st.title("🤖 tickroutex: AI Ticket Classification & Routing")
     st.markdown("---")
 
     # Sidebar Navigation
@@ -181,7 +181,7 @@ def generate_response(category, urgency, customer_text):
     if urgency in ["Critical", "High"] and category != "General/Irrelevant":
         return f"URGENT: {base_response} We are prioritizing this ticket due to its high urgency."
     else:
-        return f"Hi there, \n\n{base_response}\n\nBest regards,\nSupportFlow Team"
+        return f"Hi there, \n\n{base_response}\n\nBest regards,\ntickroutex Team"
 
 def show_classifier():
     st.header("🎫 New Ticket Triage")

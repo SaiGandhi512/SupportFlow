@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: SupportFlow3
+    name: tickroutex
     env: python
     plan: free
     buildCommand: "pip install -r requirements.txt"
