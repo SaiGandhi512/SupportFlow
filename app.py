@@ -463,22 +463,22 @@ def show_dashboard():
         df = pd.DataFrame()
 
     # 📤 Upload External Data
-    with st.expander("Import External Data (CSV)"):
-        uploaded_file = st.file_uploader("Upload CSV to merge", type="csv")
-        if uploaded_file is not None:
-            try:
-                ext_df = pd.read_csv(uploaded_file)
-                if not df.empty:
-                    df = pd.concat([df, ext_df], ignore_index=True)
-                else:
-                    df = ext_df
-                st.success(f"Merged {len(ext_df)} imported records.")
-            except Exception as e:
-                st.error(f"Error reading file: {e}")
+    # with st.expander("Import External Data (CSV)"):
+    #     uploaded_file = st.file_uploader("Upload CSV to merge", type="csv")
+    #     if uploaded_file is not None:
+    #         try:
+    #             ext_df = pd.read_csv(uploaded_file)
+    #             if not df.empty:
+    #                 df = pd.concat([df, ext_df], ignore_index=True)
+    #             else:
+    #                 df = ext_df
+    #             st.success(f"Merged {len(ext_df)} imported records.")
+    #         except Exception as e:
+    #             st.error(f"Error reading file: {e}")
 
-    if df.empty:
-        st.warning("No data found. Please ensure 'support_tickets_data.csv' exists or upload a file.")
-        return
+    # if df.empty:
+    #     st.warning("No data found. Please ensure 'support_tickets_data.csv' exists or upload a file.")
+    #     return
 
     # metrics
     total_tickets = len(df)
